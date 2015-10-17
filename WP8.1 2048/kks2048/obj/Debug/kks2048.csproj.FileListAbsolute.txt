@@ -1,0 +1,64 @@
+E:\WP源码\kks2048\kks2048\bin\Debug\App.xbf
+E:\WP源码\kks2048\kks2048\bin\Debug\MainPage.xbf
+E:\WP源码\kks2048\kks2048\bin\Debug\kks2048.xr.xml
+E:\WP源码\kks2048\kks2048\bin\Debug\kks2048.exe
+E:\WP源码\kks2048\kks2048\bin\Debug\kks2048.pdb
+E:\WP源码\kks2048\kks2048\bin\Debug\resources.pri
+E:\WP源码\kks2048\kks2048\bin\Debug\AppxManifest.xml
+E:\WP源码\kks2048\kks2048\bin\Debug\kks2048.build.appxrecipe
+E:\WP源码\kks2048\kks2048\obj\Debug\App.g.i.cs
+E:\WP源码\kks2048\kks2048\obj\Debug\App.g.cs
+E:\WP源码\kks2048\kks2048\obj\Debug\MainPage.g.i.cs
+E:\WP源码\kks2048\kks2048\obj\Debug\MainPage.g.cs
+E:\WP源码\kks2048\kks2048\obj\Debug\XamlTypeInfo.g.cs
+E:\WP源码\kks2048\kks2048\obj\Debug\App.xaml
+E:\WP源码\kks2048\kks2048\obj\Debug\App.xbf
+E:\WP源码\kks2048\kks2048\obj\Debug\XamlSaveStateFile.xml
+E:\WP源码\kks2048\kks2048\obj\Debug\MainPage.xaml
+E:\WP源码\kks2048\kks2048\obj\Debug\MainPage.xbf
+E:\WP源码\kks2048\kks2048\obj\Debug\kks2048.exe
+E:\WP源码\kks2048\kks2048\obj\Debug\kks2048.pdb
+E:\WP源码\kks2048\kks2048\obj\Debug\priconfig.xml
+E:\WP源码\kks2048\kks2048\obj\Debug\priconfig.xml.intermediate
+E:\WP源码\kks2048\kks2048\obj\Debug\layout.resfiles
+E:\WP源码\kks2048\kks2048\obj\Debug\layout.resfiles.intermediate
+E:\WP源码\kks2048\kks2048\obj\Debug\resources.resfiles
+E:\WP源码\kks2048\kks2048\obj\Debug\resources.resfiles.intermediate
+E:\WP源码\kks2048\kks2048\obj\Debug\pri.resfiles
+E:\WP源码\kks2048\kks2048\obj\Debug\pri.resfiles.intermediate
+E:\WP源码\kks2048\kks2048\obj\Debug\qualifiers.txt
+E:\WP源码\kks2048\kks2048\obj\Debug\qualifiers.txt.intermediate
+E:\WP源码\kks2048\kks2048\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+E:\WP源码\kks2048\kks2048\obj\Debug\ProjectArchitectures.txt
+E:\WP完整源码\WP8.1 2048\kks2048\bin\Debug\App.xbf
+E:\WP完整源码\WP8.1 2048\kks2048\bin\Debug\MainPage.xbf
+E:\WP完整源码\WP8.1 2048\kks2048\bin\Debug\kks2048.xr.xml
+E:\WP完整源码\WP8.1 2048\kks2048\bin\Debug\kks2048.exe
+E:\WP完整源码\WP8.1 2048\kks2048\bin\Debug\kks2048.pdb
+E:\WP完整源码\WP8.1 2048\kks2048\bin\Debug\resources.pri
+E:\WP完整源码\WP8.1 2048\kks2048\bin\Debug\AppxManifest.xml
+E:\WP完整源码\WP8.1 2048\kks2048\bin\Debug\kks2048.build.appxrecipe
+E:\WP完整源码\WP8.1 2048\kks2048\obj\Debug\App.g.i.cs
+E:\WP完整源码\WP8.1 2048\kks2048\obj\Debug\App.g.cs
+E:\WP完整源码\WP8.1 2048\kks2048\obj\Debug\MainPage.g.i.cs
+E:\WP完整源码\WP8.1 2048\kks2048\obj\Debug\MainPage.g.cs
+E:\WP完整源码\WP8.1 2048\kks2048\obj\Debug\XamlTypeInfo.g.cs
+E:\WP完整源码\WP8.1 2048\kks2048\obj\Debug\App.xaml
+E:\WP完整源码\WP8.1 2048\kks2048\obj\Debug\MainPage.xaml
+E:\WP完整源码\WP8.1 2048\kks2048\obj\Debug\App.xbf
+E:\WP完整源码\WP8.1 2048\kks2048\obj\Debug\MainPage.xbf
+E:\WP完整源码\WP8.1 2048\kks2048\obj\Debug\XamlSaveStateFile.xml
+E:\WP完整源码\WP8.1 2048\kks2048\obj\Debug\kks2048.exe
+E:\WP完整源码\WP8.1 2048\kks2048\obj\Debug\kks2048.pdb
+E:\WP完整源码\WP8.1 2048\kks2048\obj\Debug\priconfig.xml
+E:\WP完整源码\WP8.1 2048\kks2048\obj\Debug\priconfig.xml.intermediate
+E:\WP完整源码\WP8.1 2048\kks2048\obj\Debug\layout.resfiles
+E:\WP完整源码\WP8.1 2048\kks2048\obj\Debug\layout.resfiles.intermediate
+E:\WP完整源码\WP8.1 2048\kks2048\obj\Debug\resources.resfiles
+E:\WP完整源码\WP8.1 2048\kks2048\obj\Debug\resources.resfiles.intermediate
+E:\WP完整源码\WP8.1 2048\kks2048\obj\Debug\pri.resfiles
+E:\WP完整源码\WP8.1 2048\kks2048\obj\Debug\pri.resfiles.intermediate
+E:\WP完整源码\WP8.1 2048\kks2048\obj\Debug\qualifiers.txt
+E:\WP完整源码\WP8.1 2048\kks2048\obj\Debug\qualifiers.txt.intermediate
+E:\WP完整源码\WP8.1 2048\kks2048\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+E:\WP完整源码\WP8.1 2048\kks2048\obj\Debug\ProjectArchitectures.txt

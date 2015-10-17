@@ -1,0 +1,124 @@
+﻿<Page
+    x:Class="Dictionary.Dict"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Dictionary"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+    <Page.BottomAppBar>
+        <CommandBar  Name="appBar"   Background="#FF8ABD6D">
+            <AppBarButton x:ConnectionId='1' Icon="Add" Label="生词本"
+                       Name="addAppBarButton"                          />
+            <AppBarButton x:ConnectionId='2' Icon="Library" Label="查词历史"
+                                                />
+            
+        </CommandBar>
+    </Page.BottomAppBar>
+    
+    <Page.Resources>
+       <Style TargetType="Button">
+           <Setter Property="Height" Value="30"></Setter>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Grid x:Name="Grid" Background="Transparent">
+                            <Border x:Name="Border" Width="{TemplateBinding Width}" Height="{TemplateBinding Height}"   Background="{TemplateBinding Background}" >
+                                <ContentPresenter x:Name="ContentPresenter"  ContentTemplate="{TemplateBinding ContentTemplate}" Content="{TemplateBinding Content}" />
+                            </Border>
+                        </Grid>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+</Page.Resources>
+
+    <Grid Background="#FF8ABD6D">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="60"/>
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+         <TextBox x:ConnectionId='3' Name="txtKeywords" TextWrapping="Wrap" 
+                         Text="按回车键查词"
+                         Width="360" Height="60"
+                                                       
+                                                      
+                         />
+        
+        <Popup Name="popupHistory" 
+               IsLightDismissEnabled="True"
+               Width="380">
+            <ScrollViewer>
+             <ListView x:ConnectionId='6' Name="lvHistory" 
+                         SelectionMode="Single"
+                                                                       
+                          Width="380"
+                          Height="580"
+                        HorizontalAlignment="Center"
+                       HorizontalContentAlignment="Center">
+                        <ListView.ItemTemplate>
+                            <DataTemplate>
+                            <Border Background="Green" Width="380">
+                            <TextBlock Text="{Binding Key}"
+                              FontSize="30"
+                              HorizontalAlignment="Center"/>
+                            </Border>
+                        </DataTemplate>
+                        </ListView.ItemTemplate>
+             </ListView>
+            </ScrollViewer>
+        </Popup>
+       
+        <TextBlock Grid.Row="1" Name="txtMag" Visibility="Collapsed">
+        </TextBlock>
+        <ScrollViewer Grid.Row="1" VerticalScrollBarVisibility="Auto">
+            <StackPanel Name="spResult" Visibility="Collapsed">
+                <StackPanel Name="spParaphrase">
+                    <TextBlock Text="释义:"></TextBlock>
+                    
+                    <StackPanel Name="spPron" Visibility="Collapsed">
+                      
+                      
+                            <Button x:ConnectionId='4' Name="btnPronUK"                        
+                                Visibility="Collapsed"
+                                 >
+                                <Button.Content>
+                                <StackPanel Orientation="Horizontal">
+                                    <TextBlock Name="txtPsUK" Height="30"></TextBlock>
+                                    <Image Source="5.jpg"></Image>
+                                </StackPanel>
+                            </Button.Content>
+                            </Button>
+                        <MediaElement Name="mePronUK" AutoPlay="False"></MediaElement>
+                        
+                        
+                            
+                            <Button x:ConnectionId='5' Name="btnPronUs"
+                                                       
+                                 Visibility="Collapsed">
+                                <Button.Content>
+                                <StackPanel Orientation="Horizontal">
+                                    <TextBlock Name="txtPsUs" Height="30"></TextBlock>
+                                    <Image Source="5.jpg"></Image>
+                                </StackPanel>
+                                </Button.Content>
+                            </Button>
+                        <MediaElement Name="mePronUs" AutoPlay="False"></MediaElement>
+                        
+                 </StackPanel>
+                    <StackPanel Name="spAcceptions"></StackPanel>
+                  
+                </StackPanel>
+                <StackPanel Name="spSamples">
+                    <TextBlock Text="例句:"></TextBlock>
+                    <StackPanel Name="spSends"></StackPanel>
+                </StackPanel>
+            </StackPanel>
+
+        </ScrollViewer>
+
+    </Grid>
+
+</Page>
+

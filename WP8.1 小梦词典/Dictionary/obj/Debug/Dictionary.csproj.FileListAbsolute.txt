@@ -1,0 +1,318 @@
+E:\wp\Dictionary\Dictionary\bin\Debug\App.xbf
+E:\wp\Dictionary\Dictionary\bin\Debug\Dict.xbf
+E:\wp\Dictionary\Dictionary\bin\Debug\MainPage.xbf
+E:\wp\Dictionary\Dictionary\bin\Debug\Translate.xbf
+E:\wp\Dictionary\Dictionary\bin\Debug\WordBook.xbf
+E:\wp\Dictionary\Dictionary\bin\Debug\Dictionary.xr.xml
+E:\wp\Dictionary\Dictionary\bin\Debug\Dictionary.exe
+E:\wp\Dictionary\Dictionary\bin\Debug\Dictionary.pdb
+E:\wp\Dictionary\Dictionary\bin\Debug\resources.pri
+E:\wp\Dictionary\Dictionary\bin\Debug\AppxManifest.xml
+E:\wp\Dictionary\Dictionary\bin\Debug\Dictionary.build.appxrecipe
+E:\wp\Dictionary\Dictionary\obj\Debug\App.g.i.cs
+E:\wp\Dictionary\Dictionary\obj\Debug\App.g.cs
+E:\wp\Dictionary\Dictionary\obj\Debug\Dict.g.i.cs
+E:\wp\Dictionary\Dictionary\obj\Debug\Dict.g.cs
+E:\wp\Dictionary\Dictionary\obj\Debug\MainPage.g.i.cs
+E:\wp\Dictionary\Dictionary\obj\Debug\MainPage.g.cs
+E:\wp\Dictionary\Dictionary\obj\Debug\Translate.g.i.cs
+E:\wp\Dictionary\Dictionary\obj\Debug\Translate.g.cs
+E:\wp\Dictionary\Dictionary\obj\Debug\WordBook.g.i.cs
+E:\wp\Dictionary\Dictionary\obj\Debug\WordBook.g.cs
+E:\wp\Dictionary\Dictionary\obj\Debug\XamlTypeInfo.g.cs
+E:\wp\Dictionary\Dictionary\obj\Debug\App.xaml
+E:\wp\Dictionary\Dictionary\obj\Debug\Dict.xaml
+E:\wp\Dictionary\Dictionary\obj\Debug\Translate.xaml
+E:\wp\Dictionary\Dictionary\obj\Debug\WordBook.xaml
+E:\wp\Dictionary\Dictionary\obj\Debug\App.xbf
+E:\wp\Dictionary\Dictionary\obj\Debug\Dict.xbf
+E:\wp\Dictionary\Dictionary\obj\Debug\Translate.xbf
+E:\wp\Dictionary\Dictionary\obj\Debug\WordBook.xbf
+E:\wp\Dictionary\Dictionary\obj\Debug\XamlSaveStateFile.xml
+E:\wp\Dictionary\Dictionary\obj\Debug\MainPage.xaml
+E:\wp\Dictionary\Dictionary\obj\Debug\MainPage.xbf
+E:\wp\Dictionary\Dictionary\obj\Debug\Dictionary.exe
+E:\wp\Dictionary\Dictionary\obj\Debug\Dictionary.pdb
+E:\wp\Dictionary\Dictionary\obj\Debug\priconfig.xml
+E:\wp\Dictionary\Dictionary\obj\Debug\priconfig.xml.intermediate
+E:\wp\Dictionary\Dictionary\obj\Debug\layout.resfiles
+E:\wp\Dictionary\Dictionary\obj\Debug\layout.resfiles.intermediate
+E:\wp\Dictionary\Dictionary\obj\Debug\resources.resfiles
+E:\wp\Dictionary\Dictionary\obj\Debug\resources.resfiles.intermediate
+E:\wp\Dictionary\Dictionary\obj\Debug\pri.resfiles
+E:\wp\Dictionary\Dictionary\obj\Debug\pri.resfiles.intermediate
+E:\wp\Dictionary\Dictionary\obj\Debug\qualifiers.txt
+E:\wp\Dictionary\Dictionary\obj\Debug\qualifiers.txt.intermediate
+E:\wp\Dictionary\Dictionary\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+E:\wp\Dictionary\Dictionary\obj\Debug\ProjectArchitectures.txt
+E:\WP源码\Dictionary\Dictionary\bin\Debug\App.xbf
+E:\WP源码\Dictionary\Dictionary\bin\Debug\Dict.xbf
+E:\WP源码\Dictionary\Dictionary\bin\Debug\MainPage.xbf
+E:\WP源码\Dictionary\Dictionary\bin\Debug\Translate.xbf
+E:\WP源码\Dictionary\Dictionary\bin\Debug\WordBook.xbf
+E:\WP源码\Dictionary\Dictionary\bin\Debug\Dictionary.xr.xml
+E:\WP源码\Dictionary\Dictionary\bin\Debug\Dictionary.exe
+E:\WP源码\Dictionary\Dictionary\bin\Debug\Dictionary.pdb
+E:\WP源码\Dictionary\Dictionary\bin\Debug\resources.pri
+E:\WP源码\Dictionary\Dictionary\bin\Debug\AppxManifest.xml
+E:\WP源码\Dictionary\Dictionary\bin\Debug\Dictionary.build.appxrecipe
+E:\WP源码\Dictionary\Dictionary\obj\Debug\App.g.i.cs
+E:\WP源码\Dictionary\Dictionary\obj\Debug\App.g.cs
+E:\WP源码\Dictionary\Dictionary\obj\Debug\Dict.g.i.cs
+E:\WP源码\Dictionary\Dictionary\obj\Debug\Dict.g.cs
+E:\WP源码\Dictionary\Dictionary\obj\Debug\MainPage.g.i.cs
+E:\WP源码\Dictionary\Dictionary\obj\Debug\MainPage.g.cs
+E:\WP源码\Dictionary\Dictionary\obj\Debug\Translate.g.i.cs
+E:\WP源码\Dictionary\Dictionary\obj\Debug\Translate.g.cs
+E:\WP源码\Dictionary\Dictionary\obj\Debug\WordBook.g.i.cs
+E:\WP源码\Dictionary\Dictionary\obj\Debug\WordBook.g.cs
+E:\WP源码\Dictionary\Dictionary\obj\Debug\XamlTypeInfo.g.cs
+E:\WP源码\Dictionary\Dictionary\obj\Debug\App.xaml
+E:\WP源码\Dictionary\Dictionary\obj\Debug\MainPage.xaml
+E:\WP源码\Dictionary\Dictionary\obj\Debug\Translate.xaml
+E:\WP源码\Dictionary\Dictionary\obj\Debug\WordBook.xaml
+E:\WP源码\Dictionary\Dictionary\obj\Debug\App.xbf
+E:\WP源码\Dictionary\Dictionary\obj\Debug\MainPage.xbf
+E:\WP源码\Dictionary\Dictionary\obj\Debug\Translate.xbf
+E:\WP源码\Dictionary\Dictionary\obj\Debug\WordBook.xbf
+E:\WP源码\Dictionary\Dictionary\obj\Debug\XamlSaveStateFile.xml
+E:\WP源码\Dictionary\Dictionary\obj\Debug\Dict.xaml
+E:\WP源码\Dictionary\Dictionary\obj\Debug\Dict.xbf
+E:\WP源码\Dictionary\Dictionary\obj\Debug\Dictionary.exe
+E:\WP源码\Dictionary\Dictionary\obj\Debug\Dictionary.pdb
+E:\WP源码\Dictionary\Dictionary\obj\Debug\priconfig.xml
+E:\WP源码\Dictionary\Dictionary\obj\Debug\priconfig.xml.intermediate
+E:\WP源码\Dictionary\Dictionary\obj\Debug\layout.resfiles
+E:\WP源码\Dictionary\Dictionary\obj\Debug\layout.resfiles.intermediate
+E:\WP源码\Dictionary\Dictionary\obj\Debug\resources.resfiles
+E:\WP源码\Dictionary\Dictionary\obj\Debug\resources.resfiles.intermediate
+E:\WP源码\Dictionary\Dictionary\obj\Debug\pri.resfiles
+E:\WP源码\Dictionary\Dictionary\obj\Debug\pri.resfiles.intermediate
+E:\WP源码\Dictionary\Dictionary\obj\Debug\qualifiers.txt
+E:\WP源码\Dictionary\Dictionary\obj\Debug\qualifiers.txt.intermediate
+E:\WP源码\Dictionary\Dictionary\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+E:\WP源码\Dictionary\Dictionary\obj\Debug\ProjectArchitectures.txt
+E:\WP源码\Dictionary\Dictionary\bin\Debug\WordPlayer.xbf
+E:\WP源码\Dictionary\Dictionary\obj\Debug\WordPlayer.g.i.cs
+E:\WP源码\Dictionary\Dictionary\obj\Debug\WordPlayer.g.cs
+E:\WP源码\Dictionary\Dictionary\obj\Debug\WordPlayer.xaml
+E:\WP源码\Dictionary\Dictionary\obj\Debug\WordPlayer.xbf
+E:\WP源码\Dictionary\Dictionary\bin\Debug\LanguageSetting.xbf
+E:\WP源码\Dictionary\Dictionary\obj\Debug\LanguageSetting.g.i.cs
+E:\WP源码\Dictionary\Dictionary\obj\Debug\LanguageSetting.g.cs
+E:\WP源码\Dictionary\Dictionary\obj\Debug\LanguageSetting.xaml
+E:\WP源码\Dictionary\Dictionary\obj\Debug\LanguageSetting.xbf
+E:\WP源码\Dictionary\Dictionary\bin\Debug\OneDrive.xbf
+E:\WP源码\Dictionary\Dictionary\bin\Debug\Microsoft.Live.dll
+E:\WP源码\Dictionary\Dictionary\obj\Debug\OneDrive.g.i.cs
+E:\WP源码\Dictionary\Dictionary\obj\Debug\OneDrive.g.cs
+E:\WP源码\Dictionary\Dictionary\obj\Debug\OneDrive.xaml
+E:\WP源码\Dictionary\Dictionary\obj\Debug\OneDrive.xbf
+E:\WP源码\Dictionary\Dictionary\obj\Debug\Dictionary.csproj.GenerateResource.Cache
+E:\WP源码\WP源码\Dictionary\Dictionary\obj\Debug\Dictionary.exe
+E:\WP源码\WP源码\Dictionary\Dictionary\obj\Debug\Dictionary.pdb
+E:\WP源码\WP源码\Dictionary\Dictionary\bin\Debug\App.xbf
+E:\WP源码\WP源码\Dictionary\Dictionary\bin\Debug\Dict.xbf
+E:\WP源码\WP源码\Dictionary\Dictionary\bin\Debug\LanguageSetting.xbf
+E:\WP源码\WP源码\Dictionary\Dictionary\bin\Debug\MainPage.xbf
+E:\WP源码\WP源码\Dictionary\Dictionary\bin\Debug\OneDrive.xbf
+E:\WP源码\WP源码\Dictionary\Dictionary\bin\Debug\Translate.xbf
+E:\WP源码\WP源码\Dictionary\Dictionary\bin\Debug\WordBook.xbf
+E:\WP源码\WP源码\Dictionary\Dictionary\bin\Debug\WordPlayer.xbf
+E:\WP源码\WP源码\Dictionary\Dictionary\bin\Debug\Dictionary.xr.xml
+E:\WP源码\WP源码\Dictionary\Dictionary\bin\Debug\Dictionary.exe
+E:\WP源码\WP源码\Dictionary\Dictionary\bin\Debug\Dictionary.pdb
+E:\WP源码\WP源码\Dictionary\Dictionary\bin\Debug\resources.pri
+E:\WP源码\WP源码\Dictionary\Dictionary\bin\Debug\AppxManifest.xml
+E:\WP源码\WP源码\Dictionary\Dictionary\bin\Debug\Dictionary.build.appxrecipe
+E:\WP源码\WP源码\Dictionary\Dictionary\bin\Debug\Microsoft.Live.dll
+E:\WP源码\WP源码\Dictionary\Dictionary\obj\Debug\App.g.i.cs
+E:\WP源码\WP源码\Dictionary\Dictionary\obj\Debug\App.g.cs
+E:\WP源码\WP源码\Dictionary\Dictionary\obj\Debug\Dict.g.i.cs
+E:\WP源码\WP源码\Dictionary\Dictionary\obj\Debug\Dict.g.cs
+E:\WP源码\WP源码\Dictionary\Dictionary\obj\Debug\LanguageSetting.g.i.cs
+E:\WP源码\WP源码\Dictionary\Dictionary\obj\Debug\LanguageSetting.g.cs
+E:\WP源码\WP源码\Dictionary\Dictionary\obj\Debug\MainPage.g.i.cs
+E:\WP源码\WP源码\Dictionary\Dictionary\obj\Debug\MainPage.g.cs
+E:\WP源码\WP源码\Dictionary\Dictionary\obj\Debug\OneDrive.g.i.cs
+E:\WP源码\WP源码\Dictionary\Dictionary\obj\Debug\OneDrive.g.cs
+E:\WP源码\WP源码\Dictionary\Dictionary\obj\Debug\Translate.g.i.cs
+E:\WP源码\WP源码\Dictionary\Dictionary\obj\Debug\Translate.g.cs
+E:\WP源码\WP源码\Dictionary\Dictionary\obj\Debug\WordBook.g.i.cs
+E:\WP源码\WP源码\Dictionary\Dictionary\obj\Debug\WordBook.g.cs
+E:\WP源码\WP源码\Dictionary\Dictionary\obj\Debug\WordPlayer.g.i.cs
+E:\WP源码\WP源码\Dictionary\Dictionary\obj\Debug\WordPlayer.g.cs
+E:\WP源码\WP源码\Dictionary\Dictionary\obj\Debug\XamlTypeInfo.g.cs
+E:\WP源码\WP源码\Dictionary\Dictionary\obj\Debug\App.xaml
+E:\WP源码\WP源码\Dictionary\Dictionary\obj\Debug\Dict.xaml
+E:\WP源码\WP源码\Dictionary\Dictionary\obj\Debug\LanguageSetting.xaml
+E:\WP源码\WP源码\Dictionary\Dictionary\obj\Debug\MainPage.xaml
+E:\WP源码\WP源码\Dictionary\Dictionary\obj\Debug\OneDrive.xaml
+E:\WP源码\WP源码\Dictionary\Dictionary\obj\Debug\Translate.xaml
+E:\WP源码\WP源码\Dictionary\Dictionary\obj\Debug\WordBook.xaml
+E:\WP源码\WP源码\Dictionary\Dictionary\obj\Debug\WordPlayer.xaml
+E:\WP源码\WP源码\Dictionary\Dictionary\obj\Debug\App.xbf
+E:\WP源码\WP源码\Dictionary\Dictionary\obj\Debug\Dict.xbf
+E:\WP源码\WP源码\Dictionary\Dictionary\obj\Debug\LanguageSetting.xbf
+E:\WP源码\WP源码\Dictionary\Dictionary\obj\Debug\MainPage.xbf
+E:\WP源码\WP源码\Dictionary\Dictionary\obj\Debug\OneDrive.xbf
+E:\WP源码\WP源码\Dictionary\Dictionary\obj\Debug\Translate.xbf
+E:\WP源码\WP源码\Dictionary\Dictionary\obj\Debug\WordBook.xbf
+E:\WP源码\WP源码\Dictionary\Dictionary\obj\Debug\WordPlayer.xbf
+E:\WP源码\WP源码\Dictionary\Dictionary\obj\Debug\XamlSaveStateFile.xml
+E:\WP源码\WP源码\Dictionary\Dictionary\obj\Debug\Dictionary.csproj.GenerateResource.Cache
+E:\WP源码\WP源码\Dictionary\Dictionary\obj\Debug\priconfig.xml
+E:\WP源码\WP源码\Dictionary\Dictionary\obj\Debug\priconfig.xml.intermediate
+E:\WP源码\WP源码\Dictionary\Dictionary\obj\Debug\layout.resfiles
+E:\WP源码\WP源码\Dictionary\Dictionary\obj\Debug\layout.resfiles.intermediate
+E:\WP源码\WP源码\Dictionary\Dictionary\obj\Debug\resources.resfiles
+E:\WP源码\WP源码\Dictionary\Dictionary\obj\Debug\resources.resfiles.intermediate
+E:\WP源码\WP源码\Dictionary\Dictionary\obj\Debug\pri.resfiles
+E:\WP源码\WP源码\Dictionary\Dictionary\obj\Debug\pri.resfiles.intermediate
+E:\WP源码\WP源码\Dictionary\Dictionary\obj\Debug\qualifiers.txt
+E:\WP源码\WP源码\Dictionary\Dictionary\obj\Debug\qualifiers.txt.intermediate
+E:\WP源码\WP源码\Dictionary\Dictionary\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+E:\WP源码\WP源码\Dictionary\Dictionary\obj\Debug\ProjectArchitectures.txt
+E:\WP源码\WP源码\Dictionary\Dictionary\bin\Debug\About.xbf
+E:\WP源码\WP源码\Dictionary\Dictionary\obj\Debug\About.g.i.cs
+E:\WP源码\WP源码\Dictionary\Dictionary\obj\Debug\About.g.cs
+E:\WP源码\WP源码\Dictionary\Dictionary\obj\Debug\About.xaml
+E:\WP源码\WP源码\Dictionary\Dictionary\obj\Debug\About.xbf
+E:\WP源码\WP源码\WP8.1 小梦词典\Dictionary\bin\Debug\App.xbf
+E:\WP源码\WP源码\WP8.1 小梦词典\Dictionary\bin\Debug\About.xbf
+E:\WP源码\WP源码\WP8.1 小梦词典\Dictionary\bin\Debug\Dict.xbf
+E:\WP源码\WP源码\WP8.1 小梦词典\Dictionary\bin\Debug\LanguageSetting.xbf
+E:\WP源码\WP源码\WP8.1 小梦词典\Dictionary\bin\Debug\MainPage.xbf
+E:\WP源码\WP源码\WP8.1 小梦词典\Dictionary\bin\Debug\OneDrive.xbf
+E:\WP源码\WP源码\WP8.1 小梦词典\Dictionary\bin\Debug\Translate.xbf
+E:\WP源码\WP源码\WP8.1 小梦词典\Dictionary\bin\Debug\WordBook.xbf
+E:\WP源码\WP源码\WP8.1 小梦词典\Dictionary\bin\Debug\WordPlayer.xbf
+E:\WP源码\WP源码\WP8.1 小梦词典\Dictionary\bin\Debug\Dictionary.xr.xml
+E:\WP源码\WP源码\WP8.1 小梦词典\Dictionary\bin\Debug\Dictionary.exe
+E:\WP源码\WP源码\WP8.1 小梦词典\Dictionary\bin\Debug\Dictionary.pdb
+E:\WP源码\WP源码\WP8.1 小梦词典\Dictionary\bin\Debug\resources.pri
+E:\WP源码\WP源码\WP8.1 小梦词典\Dictionary\bin\Debug\AppxManifest.xml
+E:\WP源码\WP源码\WP8.1 小梦词典\Dictionary\bin\Debug\Dictionary.build.appxrecipe
+E:\WP源码\WP源码\WP8.1 小梦词典\Dictionary\bin\Debug\Microsoft.Live.dll
+E:\WP源码\WP源码\WP8.1 小梦词典\Dictionary\obj\Debug\App.g.i.cs
+E:\WP源码\WP源码\WP8.1 小梦词典\Dictionary\obj\Debug\App.g.cs
+E:\WP源码\WP源码\WP8.1 小梦词典\Dictionary\obj\Debug\About.g.i.cs
+E:\WP源码\WP源码\WP8.1 小梦词典\Dictionary\obj\Debug\About.g.cs
+E:\WP源码\WP源码\WP8.1 小梦词典\Dictionary\obj\Debug\Dict.g.i.cs
+E:\WP源码\WP源码\WP8.1 小梦词典\Dictionary\obj\Debug\Dict.g.cs
+E:\WP源码\WP源码\WP8.1 小梦词典\Dictionary\obj\Debug\LanguageSetting.g.i.cs
+E:\WP源码\WP源码\WP8.1 小梦词典\Dictionary\obj\Debug\LanguageSetting.g.cs
+E:\WP源码\WP源码\WP8.1 小梦词典\Dictionary\obj\Debug\MainPage.g.i.cs
+E:\WP源码\WP源码\WP8.1 小梦词典\Dictionary\obj\Debug\MainPage.g.cs
+E:\WP源码\WP源码\WP8.1 小梦词典\Dictionary\obj\Debug\OneDrive.g.i.cs
+E:\WP源码\WP源码\WP8.1 小梦词典\Dictionary\obj\Debug\OneDrive.g.cs
+E:\WP源码\WP源码\WP8.1 小梦词典\Dictionary\obj\Debug\Translate.g.i.cs
+E:\WP源码\WP源码\WP8.1 小梦词典\Dictionary\obj\Debug\Translate.g.cs
+E:\WP源码\WP源码\WP8.1 小梦词典\Dictionary\obj\Debug\WordBook.g.i.cs
+E:\WP源码\WP源码\WP8.1 小梦词典\Dictionary\obj\Debug\WordBook.g.cs
+E:\WP源码\WP源码\WP8.1 小梦词典\Dictionary\obj\Debug\WordPlayer.g.i.cs
+E:\WP源码\WP源码\WP8.1 小梦词典\Dictionary\obj\Debug\WordPlayer.g.cs
+E:\WP源码\WP源码\WP8.1 小梦词典\Dictionary\obj\Debug\XamlTypeInfo.g.cs
+E:\WP源码\WP源码\WP8.1 小梦词典\Dictionary\obj\Debug\App.xaml
+E:\WP源码\WP源码\WP8.1 小梦词典\Dictionary\obj\Debug\About.xaml
+E:\WP源码\WP源码\WP8.1 小梦词典\Dictionary\obj\Debug\LanguageSetting.xaml
+E:\WP源码\WP源码\WP8.1 小梦词典\Dictionary\obj\Debug\MainPage.xaml
+E:\WP源码\WP源码\WP8.1 小梦词典\Dictionary\obj\Debug\OneDrive.xaml
+E:\WP源码\WP源码\WP8.1 小梦词典\Dictionary\obj\Debug\Translate.xaml
+E:\WP源码\WP源码\WP8.1 小梦词典\Dictionary\obj\Debug\WordBook.xaml
+E:\WP源码\WP源码\WP8.1 小梦词典\Dictionary\obj\Debug\WordPlayer.xaml
+E:\WP源码\WP源码\WP8.1 小梦词典\Dictionary\obj\Debug\App.xbf
+E:\WP源码\WP源码\WP8.1 小梦词典\Dictionary\obj\Debug\About.xbf
+E:\WP源码\WP源码\WP8.1 小梦词典\Dictionary\obj\Debug\LanguageSetting.xbf
+E:\WP源码\WP源码\WP8.1 小梦词典\Dictionary\obj\Debug\MainPage.xbf
+E:\WP源码\WP源码\WP8.1 小梦词典\Dictionary\obj\Debug\OneDrive.xbf
+E:\WP源码\WP源码\WP8.1 小梦词典\Dictionary\obj\Debug\Translate.xbf
+E:\WP源码\WP源码\WP8.1 小梦词典\Dictionary\obj\Debug\WordBook.xbf
+E:\WP源码\WP源码\WP8.1 小梦词典\Dictionary\obj\Debug\WordPlayer.xbf
+E:\WP源码\WP源码\WP8.1 小梦词典\Dictionary\obj\Debug\XamlSaveStateFile.xml
+E:\WP源码\WP源码\WP8.1 小梦词典\Dictionary\obj\Debug\Dict.xaml
+E:\WP源码\WP源码\WP8.1 小梦词典\Dictionary\obj\Debug\Dict.xbf
+E:\WP源码\WP源码\WP8.1 小梦词典\Dictionary\obj\Debug\Dictionary.exe
+E:\WP源码\WP源码\WP8.1 小梦词典\Dictionary\obj\Debug\Dictionary.pdb
+E:\WP源码\WP源码\WP8.1 小梦词典\Dictionary\obj\Debug\Dictionary.csproj.GenerateResource.Cache
+E:\WP源码\WP源码\WP8.1 小梦词典\Dictionary\obj\Debug\priconfig.xml
+E:\WP源码\WP源码\WP8.1 小梦词典\Dictionary\obj\Debug\priconfig.xml.intermediate
+E:\WP源码\WP源码\WP8.1 小梦词典\Dictionary\obj\Debug\layout.resfiles
+E:\WP源码\WP源码\WP8.1 小梦词典\Dictionary\obj\Debug\layout.resfiles.intermediate
+E:\WP源码\WP源码\WP8.1 小梦词典\Dictionary\obj\Debug\resources.resfiles
+E:\WP源码\WP源码\WP8.1 小梦词典\Dictionary\obj\Debug\resources.resfiles.intermediate
+E:\WP源码\WP源码\WP8.1 小梦词典\Dictionary\obj\Debug\pri.resfiles
+E:\WP源码\WP源码\WP8.1 小梦词典\Dictionary\obj\Debug\pri.resfiles.intermediate
+E:\WP源码\WP源码\WP8.1 小梦词典\Dictionary\obj\Debug\qualifiers.txt
+E:\WP源码\WP源码\WP8.1 小梦词典\Dictionary\obj\Debug\qualifiers.txt.intermediate
+E:\WP源码\WP源码\WP8.1 小梦词典\Dictionary\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+E:\WP源码\WP源码\WP8.1 小梦词典\Dictionary\obj\Debug\ProjectArchitectures.txt
+E:\WP完整源码\WP8.1 小梦词典\Dictionary\bin\Debug\App.xbf
+E:\WP完整源码\WP8.1 小梦词典\Dictionary\bin\Debug\About.xbf
+E:\WP完整源码\WP8.1 小梦词典\Dictionary\bin\Debug\Dict.xbf
+E:\WP完整源码\WP8.1 小梦词典\Dictionary\bin\Debug\LanguageSetting.xbf
+E:\WP完整源码\WP8.1 小梦词典\Dictionary\bin\Debug\MainPage.xbf
+E:\WP完整源码\WP8.1 小梦词典\Dictionary\bin\Debug\OneDrive.xbf
+E:\WP完整源码\WP8.1 小梦词典\Dictionary\bin\Debug\Translate.xbf
+E:\WP完整源码\WP8.1 小梦词典\Dictionary\bin\Debug\WordBook.xbf
+E:\WP完整源码\WP8.1 小梦词典\Dictionary\bin\Debug\WordPlayer.xbf
+E:\WP完整源码\WP8.1 小梦词典\Dictionary\bin\Debug\Dictionary.xr.xml
+E:\WP完整源码\WP8.1 小梦词典\Dictionary\bin\Debug\Dictionary.exe
+E:\WP完整源码\WP8.1 小梦词典\Dictionary\bin\Debug\Dictionary.pdb
+E:\WP完整源码\WP8.1 小梦词典\Dictionary\bin\Debug\resources.pri
+E:\WP完整源码\WP8.1 小梦词典\Dictionary\bin\Debug\AppxManifest.xml
+E:\WP完整源码\WP8.1 小梦词典\Dictionary\bin\Debug\Dictionary.build.appxrecipe
+E:\WP完整源码\WP8.1 小梦词典\Dictionary\bin\Debug\Microsoft.Live.dll
+E:\WP完整源码\WP8.1 小梦词典\Dictionary\obj\Debug\App.g.i.cs
+E:\WP完整源码\WP8.1 小梦词典\Dictionary\obj\Debug\App.g.cs
+E:\WP完整源码\WP8.1 小梦词典\Dictionary\obj\Debug\About.g.i.cs
+E:\WP完整源码\WP8.1 小梦词典\Dictionary\obj\Debug\About.g.cs
+E:\WP完整源码\WP8.1 小梦词典\Dictionary\obj\Debug\Dict.g.i.cs
+E:\WP完整源码\WP8.1 小梦词典\Dictionary\obj\Debug\Dict.g.cs
+E:\WP完整源码\WP8.1 小梦词典\Dictionary\obj\Debug\LanguageSetting.g.i.cs
+E:\WP完整源码\WP8.1 小梦词典\Dictionary\obj\Debug\LanguageSetting.g.cs
+E:\WP完整源码\WP8.1 小梦词典\Dictionary\obj\Debug\MainPage.g.i.cs
+E:\WP完整源码\WP8.1 小梦词典\Dictionary\obj\Debug\MainPage.g.cs
+E:\WP完整源码\WP8.1 小梦词典\Dictionary\obj\Debug\OneDrive.g.i.cs
+E:\WP完整源码\WP8.1 小梦词典\Dictionary\obj\Debug\OneDrive.g.cs
+E:\WP完整源码\WP8.1 小梦词典\Dictionary\obj\Debug\Translate.g.i.cs
+E:\WP完整源码\WP8.1 小梦词典\Dictionary\obj\Debug\Translate.g.cs
+E:\WP完整源码\WP8.1 小梦词典\Dictionary\obj\Debug\WordBook.g.i.cs
+E:\WP完整源码\WP8.1 小梦词典\Dictionary\obj\Debug\WordBook.g.cs
+E:\WP完整源码\WP8.1 小梦词典\Dictionary\obj\Debug\WordPlayer.g.i.cs
+E:\WP完整源码\WP8.1 小梦词典\Dictionary\obj\Debug\WordPlayer.g.cs
+E:\WP完整源码\WP8.1 小梦词典\Dictionary\obj\Debug\XamlTypeInfo.g.cs
+E:\WP完整源码\WP8.1 小梦词典\Dictionary\obj\Debug\App.xaml
+E:\WP完整源码\WP8.1 小梦词典\Dictionary\obj\Debug\About.xaml
+E:\WP完整源码\WP8.1 小梦词典\Dictionary\obj\Debug\Dict.xaml
+E:\WP完整源码\WP8.1 小梦词典\Dictionary\obj\Debug\LanguageSetting.xaml
+E:\WP完整源码\WP8.1 小梦词典\Dictionary\obj\Debug\MainPage.xaml
+E:\WP完整源码\WP8.1 小梦词典\Dictionary\obj\Debug\OneDrive.xaml
+E:\WP完整源码\WP8.1 小梦词典\Dictionary\obj\Debug\Translate.xaml
+E:\WP完整源码\WP8.1 小梦词典\Dictionary\obj\Debug\WordBook.xaml
+E:\WP完整源码\WP8.1 小梦词典\Dictionary\obj\Debug\WordPlayer.xaml
+E:\WP完整源码\WP8.1 小梦词典\Dictionary\obj\Debug\App.xbf
+E:\WP完整源码\WP8.1 小梦词典\Dictionary\obj\Debug\About.xbf
+E:\WP完整源码\WP8.1 小梦词典\Dictionary\obj\Debug\Dict.xbf
+E:\WP完整源码\WP8.1 小梦词典\Dictionary\obj\Debug\LanguageSetting.xbf
+E:\WP完整源码\WP8.1 小梦词典\Dictionary\obj\Debug\MainPage.xbf
+E:\WP完整源码\WP8.1 小梦词典\Dictionary\obj\Debug\OneDrive.xbf
+E:\WP完整源码\WP8.1 小梦词典\Dictionary\obj\Debug\Translate.xbf
+E:\WP完整源码\WP8.1 小梦词典\Dictionary\obj\Debug\WordBook.xbf
+E:\WP完整源码\WP8.1 小梦词典\Dictionary\obj\Debug\WordPlayer.xbf
+E:\WP完整源码\WP8.1 小梦词典\Dictionary\obj\Debug\XamlSaveStateFile.xml
+E:\WP完整源码\WP8.1 小梦词典\Dictionary\obj\Debug\Dictionary.exe
+E:\WP完整源码\WP8.1 小梦词典\Dictionary\obj\Debug\Dictionary.pdb
+E:\WP完整源码\WP8.1 小梦词典\Dictionary\obj\Debug\Dictionary.csproj.GenerateResource.Cache
+E:\WP完整源码\WP8.1 小梦词典\Dictionary\obj\Debug\priconfig.xml
+E:\WP完整源码\WP8.1 小梦词典\Dictionary\obj\Debug\priconfig.xml.intermediate
+E:\WP完整源码\WP8.1 小梦词典\Dictionary\obj\Debug\layout.resfiles
+E:\WP完整源码\WP8.1 小梦词典\Dictionary\obj\Debug\layout.resfiles.intermediate
+E:\WP完整源码\WP8.1 小梦词典\Dictionary\obj\Debug\resources.resfiles
+E:\WP完整源码\WP8.1 小梦词典\Dictionary\obj\Debug\resources.resfiles.intermediate
+E:\WP完整源码\WP8.1 小梦词典\Dictionary\obj\Debug\pri.resfiles
+E:\WP完整源码\WP8.1 小梦词典\Dictionary\obj\Debug\pri.resfiles.intermediate
+E:\WP完整源码\WP8.1 小梦词典\Dictionary\obj\Debug\qualifiers.txt
+E:\WP完整源码\WP8.1 小梦词典\Dictionary\obj\Debug\qualifiers.txt.intermediate
+E:\WP完整源码\WP8.1 小梦词典\Dictionary\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+E:\WP完整源码\WP8.1 小梦词典\Dictionary\obj\Debug\ProjectArchitectures.txt

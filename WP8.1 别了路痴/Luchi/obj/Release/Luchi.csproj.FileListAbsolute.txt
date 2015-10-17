@@ -1,0 +1,174 @@
+E:\WP源码\Luchi\Luchi\bin\Release\App.xbf
+E:\WP源码\Luchi\Luchi\bin\Release\Views\BusAround.xbf
+E:\WP源码\Luchi\Luchi\bin\Release\Views\BusinessView.xbf
+E:\WP源码\Luchi\Luchi\bin\Release\Views\BusRoute.xbf
+E:\WP源码\Luchi\Luchi\bin\Release\Views\BusStation.xbf
+E:\WP源码\Luchi\Luchi\bin\Release\Views\BusTransfer.xbf
+E:\WP源码\Luchi\Luchi\bin\Release\Views\CompassView.xbf
+E:\WP源码\Luchi\Luchi\bin\Release\Views\MainPage.xbf
+E:\WP源码\Luchi\Luchi\bin\Release\Luchi.xr.xml
+E:\WP源码\Luchi\Luchi\bin\Release\Luchi.exe
+E:\WP源码\Luchi\Luchi\bin\Release\Luchi.pdb
+E:\WP源码\Luchi\Luchi\bin\Release\resources.pri
+E:\WP源码\Luchi\Luchi\bin\Release\AppxManifest.xml
+E:\WP源码\Luchi\Luchi\bin\Release\Luchi.build.appxrecipe
+E:\WP源码\Luchi\Luchi\bin\Release\PhoneTextBoxView.dll
+E:\WP源码\Luchi\Luchi\bin\Release\ScrollTB.dll
+E:\WP源码\Luchi\Luchi\bin\Release\PhoneTextBoxView.pdb
+E:\WP源码\Luchi\Luchi\bin\Release\PhoneTextBoxView.pri
+E:\WP源码\Luchi\Luchi\bin\Release\ScrollTB.pdb
+E:\WP源码\Luchi\Luchi\bin\Release\ScrollTB.pri
+E:\WP源码\Luchi\Luchi\obj\Release\Luchi.csprojResolveAssemblyReference.cache
+E:\WP源码\Luchi\Luchi\obj\Release\App.g.i.cs
+E:\WP源码\Luchi\Luchi\obj\Release\App.g.cs
+E:\WP源码\Luchi\Luchi\obj\Release\Views\BusAround.g.i.cs
+E:\WP源码\Luchi\Luchi\obj\Release\Views\BusAround.g.cs
+E:\WP源码\Luchi\Luchi\obj\Release\Views\BusinessView.g.i.cs
+E:\WP源码\Luchi\Luchi\obj\Release\Views\BusinessView.g.cs
+E:\WP源码\Luchi\Luchi\obj\Release\Views\BusRoute.g.i.cs
+E:\WP源码\Luchi\Luchi\obj\Release\Views\BusRoute.g.cs
+E:\WP源码\Luchi\Luchi\obj\Release\Views\BusStation.g.i.cs
+E:\WP源码\Luchi\Luchi\obj\Release\Views\BusStation.g.cs
+E:\WP源码\Luchi\Luchi\obj\Release\Views\BusTransfer.g.i.cs
+E:\WP源码\Luchi\Luchi\obj\Release\Views\BusTransfer.g.cs
+E:\WP源码\Luchi\Luchi\obj\Release\Views\CompassView.g.i.cs
+E:\WP源码\Luchi\Luchi\obj\Release\Views\CompassView.g.cs
+E:\WP源码\Luchi\Luchi\obj\Release\Views\MainPage.g.i.cs
+E:\WP源码\Luchi\Luchi\obj\Release\Views\MainPage.g.cs
+E:\WP源码\Luchi\Luchi\obj\Release\XamlTypeInfo.g.cs
+E:\WP源码\Luchi\Luchi\obj\Release\App.xaml
+E:\WP源码\Luchi\Luchi\obj\Release\Views\BusAround.xaml
+E:\WP源码\Luchi\Luchi\obj\Release\Views\BusinessView.xaml
+E:\WP源码\Luchi\Luchi\obj\Release\Views\BusRoute.xaml
+E:\WP源码\Luchi\Luchi\obj\Release\Views\BusStation.xaml
+E:\WP源码\Luchi\Luchi\obj\Release\Views\BusTransfer.xaml
+E:\WP源码\Luchi\Luchi\obj\Release\App.xbf
+E:\WP源码\Luchi\Luchi\obj\Release\Views\BusAround.xbf
+E:\WP源码\Luchi\Luchi\obj\Release\Views\BusinessView.xbf
+E:\WP源码\Luchi\Luchi\obj\Release\Views\BusRoute.xbf
+E:\WP源码\Luchi\Luchi\obj\Release\Views\BusStation.xbf
+E:\WP源码\Luchi\Luchi\obj\Release\Views\BusTransfer.xbf
+E:\WP源码\Luchi\Luchi\obj\Release\XamlSaveStateFile.xml
+E:\WP源码\Luchi\Luchi\obj\Release\Views\CompassView.xaml
+E:\WP源码\Luchi\Luchi\obj\Release\Views\MainPage.xaml
+E:\WP源码\Luchi\Luchi\obj\Release\Views\CompassView.xbf
+E:\WP源码\Luchi\Luchi\obj\Release\Views\MainPage.xbf
+E:\WP源码\Luchi\Luchi\obj\Release\Luchi.exe
+E:\WP源码\Luchi\Luchi\obj\Release\Luchi.pdb
+E:\WP源码\Luchi\Luchi\obj\Release\Luchi.csproj.GenerateResource.Cache
+E:\WP源码\Luchi\Luchi\obj\Release\priconfig.xml
+E:\WP源码\Luchi\Luchi\obj\Release\priconfig.xml.intermediate
+E:\WP源码\Luchi\Luchi\obj\Release\layout.resfiles
+E:\WP源码\Luchi\Luchi\obj\Release\layout.resfiles.intermediate
+E:\WP源码\Luchi\Luchi\obj\Release\resources.resfiles
+E:\WP源码\Luchi\Luchi\obj\Release\resources.resfiles.intermediate
+E:\WP源码\Luchi\Luchi\obj\Release\pri.resfiles
+E:\WP源码\Luchi\Luchi\obj\Release\pri.resfiles.intermediate
+E:\WP源码\Luchi\Luchi\obj\Release\qualifiers.txt
+E:\WP源码\Luchi\Luchi\obj\Release\qualifiers.txt.intermediate
+E:\WP源码\Luchi\Luchi\obj\Release\MultipleQualifiersPerDimensionFound.txt
+E:\WP源码\Luchi\Luchi\obj\Release\ProjectArchitectures.txt
+E:\WP源码\Luchi\Luchi\bin\Release\Views\Feedback.xbf
+E:\WP源码\Luchi\Luchi\bin\Release\Views\Setting.xbf
+E:\WP源码\Luchi\Luchi\obj\Release\Views\Feedback.g.i.cs
+E:\WP源码\Luchi\Luchi\obj\Release\Views\Feedback.g.cs
+E:\WP源码\Luchi\Luchi\obj\Release\Views\Setting.g.i.cs
+E:\WP源码\Luchi\Luchi\obj\Release\Views\Setting.g.cs
+E:\WP源码\Luchi\Luchi\obj\Release\Views\Feedback.xaml
+E:\WP源码\Luchi\Luchi\obj\Release\Views\Setting.xaml
+E:\WP源码\Luchi\Luchi\obj\Release\Views\Feedback.xbf
+E:\WP源码\Luchi\Luchi\obj\Release\Views\Setting.xbf
+E:\WP源码\Luchi\Luchi\bin\Release\Views\RouteTrack.xbf
+E:\WP源码\Luchi\Luchi\bin\Release\MappingUtilities.dll
+E:\WP源码\Luchi\Luchi\bin\Release\MappingUtilities.Pcl.dll
+E:\WP源码\Luchi\Luchi\bin\Release\MappingUtilities.pdb
+E:\WP源码\Luchi\Luchi\bin\Release\MappingUtilities.pri
+E:\WP源码\Luchi\Luchi\bin\Release\MappingUtilities.Pcl.pdb
+E:\WP源码\Luchi\Luchi\bin\Release\MappingUtilities.Pcl.pri
+E:\WP源码\Luchi\Luchi\obj\Release\Views\RouteTrack.g.i.cs
+E:\WP源码\Luchi\Luchi\obj\Release\Views\RouteTrack.g.cs
+E:\WP源码\Luchi\Luchi\obj\Release\Views\RouteTrack.xaml
+E:\WP源码\Luchi\Luchi\obj\Release\Views\RouteTrack.xbf
+E:\WP完整源码\WP8.1 别了路痴\Luchi\bin\Release\App.xbf
+E:\WP完整源码\WP8.1 别了路痴\Luchi\bin\Release\Views\BusAround.xbf
+E:\WP完整源码\WP8.1 别了路痴\Luchi\bin\Release\Views\BusinessView.xbf
+E:\WP完整源码\WP8.1 别了路痴\Luchi\bin\Release\Views\BusRoute.xbf
+E:\WP完整源码\WP8.1 别了路痴\Luchi\bin\Release\Views\BusStation.xbf
+E:\WP完整源码\WP8.1 别了路痴\Luchi\bin\Release\Views\BusTransfer.xbf
+E:\WP完整源码\WP8.1 别了路痴\Luchi\bin\Release\Views\CompassView.xbf
+E:\WP完整源码\WP8.1 别了路痴\Luchi\bin\Release\Views\MainPage.xbf
+E:\WP完整源码\WP8.1 别了路痴\Luchi\bin\Release\Views\Setting.xbf
+E:\WP完整源码\WP8.1 别了路痴\Luchi\bin\Release\Luchi.xr.xml
+E:\WP完整源码\WP8.1 别了路痴\Luchi\bin\Release\Luchi.exe
+E:\WP完整源码\WP8.1 别了路痴\Luchi\bin\Release\Luchi.pdb
+E:\WP完整源码\WP8.1 别了路痴\Luchi\bin\Release\resources.pri
+E:\WP完整源码\WP8.1 别了路痴\Luchi\bin\Release\AppxManifest.xml
+E:\WP完整源码\WP8.1 别了路痴\Luchi\bin\Release\Luchi.build.appxrecipe
+E:\WP完整源码\WP8.1 别了路痴\Luchi\bin\Release\PhoneTextBoxView.dll
+E:\WP完整源码\WP8.1 别了路痴\Luchi\bin\Release\ScrollTB.dll
+E:\WP完整源码\WP8.1 别了路痴\Luchi\bin\Release\PhoneTextBoxView.pdb
+E:\WP完整源码\WP8.1 别了路痴\Luchi\bin\Release\PhoneTextBoxView.pri
+E:\WP完整源码\WP8.1 别了路痴\Luchi\bin\Release\ScrollTB.pdb
+E:\WP完整源码\WP8.1 别了路痴\Luchi\bin\Release\ScrollTB.pri
+E:\WP完整源码\WP8.1 别了路痴\Luchi\obj\Release\Luchi.csprojResolveAssemblyReference.cache
+E:\WP完整源码\WP8.1 别了路痴\Luchi\obj\Release\App.g.i.cs
+E:\WP完整源码\WP8.1 别了路痴\Luchi\obj\Release\App.g.cs
+E:\WP完整源码\WP8.1 别了路痴\Luchi\obj\Release\Views\BusAround.g.i.cs
+E:\WP完整源码\WP8.1 别了路痴\Luchi\obj\Release\Views\BusAround.g.cs
+E:\WP完整源码\WP8.1 别了路痴\Luchi\obj\Release\Views\BusinessView.g.i.cs
+E:\WP完整源码\WP8.1 别了路痴\Luchi\obj\Release\Views\BusinessView.g.cs
+E:\WP完整源码\WP8.1 别了路痴\Luchi\obj\Release\Views\BusRoute.g.i.cs
+E:\WP完整源码\WP8.1 别了路痴\Luchi\obj\Release\Views\BusRoute.g.cs
+E:\WP完整源码\WP8.1 别了路痴\Luchi\obj\Release\Views\BusStation.g.i.cs
+E:\WP完整源码\WP8.1 别了路痴\Luchi\obj\Release\Views\BusStation.g.cs
+E:\WP完整源码\WP8.1 别了路痴\Luchi\obj\Release\Views\BusTransfer.g.i.cs
+E:\WP完整源码\WP8.1 别了路痴\Luchi\obj\Release\Views\BusTransfer.g.cs
+E:\WP完整源码\WP8.1 别了路痴\Luchi\obj\Release\Views\CompassView.g.i.cs
+E:\WP完整源码\WP8.1 别了路痴\Luchi\obj\Release\Views\CompassView.g.cs
+E:\WP完整源码\WP8.1 别了路痴\Luchi\obj\Release\Views\MainPage.g.i.cs
+E:\WP完整源码\WP8.1 别了路痴\Luchi\obj\Release\Views\MainPage.g.cs
+E:\WP完整源码\WP8.1 别了路痴\Luchi\obj\Release\Views\Setting.g.i.cs
+E:\WP完整源码\WP8.1 别了路痴\Luchi\obj\Release\Views\Setting.g.cs
+E:\WP完整源码\WP8.1 别了路痴\Luchi\obj\Release\XamlTypeInfo.g.cs
+E:\WP完整源码\WP8.1 别了路痴\Luchi\obj\Release\App.xaml
+E:\WP完整源码\WP8.1 别了路痴\Luchi\obj\Release\Views\BusAround.xaml
+E:\WP完整源码\WP8.1 别了路痴\Luchi\obj\Release\Views\BusinessView.xaml
+E:\WP完整源码\WP8.1 别了路痴\Luchi\obj\Release\Views\BusRoute.xaml
+E:\WP完整源码\WP8.1 别了路痴\Luchi\obj\Release\Views\BusStation.xaml
+E:\WP完整源码\WP8.1 别了路痴\Luchi\obj\Release\Views\BusTransfer.xaml
+E:\WP完整源码\WP8.1 别了路痴\Luchi\obj\Release\Views\CompassView.xaml
+E:\WP完整源码\WP8.1 别了路痴\Luchi\obj\Release\Views\MainPage.xaml
+E:\WP完整源码\WP8.1 别了路痴\Luchi\obj\Release\Views\Setting.xaml
+E:\WP完整源码\WP8.1 别了路痴\Luchi\obj\Release\App.xbf
+E:\WP完整源码\WP8.1 别了路痴\Luchi\obj\Release\Views\BusAround.xbf
+E:\WP完整源码\WP8.1 别了路痴\Luchi\obj\Release\Views\BusinessView.xbf
+E:\WP完整源码\WP8.1 别了路痴\Luchi\obj\Release\Views\BusRoute.xbf
+E:\WP完整源码\WP8.1 别了路痴\Luchi\obj\Release\Views\BusStation.xbf
+E:\WP完整源码\WP8.1 别了路痴\Luchi\obj\Release\Views\BusTransfer.xbf
+E:\WP完整源码\WP8.1 别了路痴\Luchi\obj\Release\Views\CompassView.xbf
+E:\WP完整源码\WP8.1 别了路痴\Luchi\obj\Release\Views\MainPage.xbf
+E:\WP完整源码\WP8.1 别了路痴\Luchi\obj\Release\Views\Setting.xbf
+E:\WP完整源码\WP8.1 别了路痴\Luchi\obj\Release\XamlSaveStateFile.xml
+E:\WP完整源码\WP8.1 别了路痴\Luchi\obj\Release\Luchi.exe
+E:\WP完整源码\WP8.1 别了路痴\Luchi\obj\Release\Luchi.pdb
+E:\WP完整源码\WP8.1 别了路痴\Luchi\obj\Release\Luchi.csproj.GenerateResource.Cache
+E:\WP完整源码\WP8.1 别了路痴\Luchi\obj\Release\priconfig.xml
+E:\WP完整源码\WP8.1 别了路痴\Luchi\obj\Release\priconfig.xml.intermediate
+E:\WP完整源码\WP8.1 别了路痴\Luchi\obj\Release\layout.resfiles
+E:\WP完整源码\WP8.1 别了路痴\Luchi\obj\Release\layout.resfiles.intermediate
+E:\WP完整源码\WP8.1 别了路痴\Luchi\obj\Release\resources.resfiles
+E:\WP完整源码\WP8.1 别了路痴\Luchi\obj\Release\resources.resfiles.intermediate
+E:\WP完整源码\WP8.1 别了路痴\Luchi\obj\Release\pri.resfiles
+E:\WP完整源码\WP8.1 别了路痴\Luchi\obj\Release\pri.resfiles.intermediate
+E:\WP完整源码\WP8.1 别了路痴\Luchi\obj\Release\qualifiers.txt
+E:\WP完整源码\WP8.1 别了路痴\Luchi\obj\Release\qualifiers.txt.intermediate
+E:\WP完整源码\WP8.1 别了路痴\Luchi\obj\Release\MultipleQualifiersPerDimensionFound.txt
+E:\WP完整源码\WP8.1 别了路痴\Luchi\obj\Release\ProjectArchitectures.txt
+E:\WP完整源码\WP8.1 别了路痴\Luchi\bin\Release\wheel.xbf
+E:\WP完整源码\WP8.1 别了路痴\Luchi\bin\Release\Myprogress.winmd
+E:\WP完整源码\WP8.1 别了路痴\Luchi\bin\Release\Myprogress.pdb
+E:\WP完整源码\WP8.1 别了路痴\Luchi\bin\Release\Myprogress.pri
+E:\WP完整源码\WP8.1 别了路痴\Luchi\obj\Release\wheel.g.i.cs
+E:\WP完整源码\WP8.1 别了路痴\Luchi\obj\Release\wheel.g.cs
+E:\WP完整源码\WP8.1 别了路痴\Luchi\obj\Release\wheel.xaml
+E:\WP完整源码\WP8.1 别了路痴\Luchi\obj\Release\wheel.xbf

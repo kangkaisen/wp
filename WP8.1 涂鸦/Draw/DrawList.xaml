@@ -1,0 +1,34 @@
+﻿<Page
+    x:Class="Draw.DrawList"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Draw"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="#FFABBFB3">
+
+    <Grid >
+        <!--<ScrollViewer>
+        <StackPanel Grid.Column="1" x:Name="body" Margin="9.5"
+                   >
+                        </StackPanel>
+
+        </ScrollViewer>-->
+        <GridView x:Name="body">
+            <GridView.ItemsPanel>
+                <ItemsPanelTemplate>
+                    <ItemsWrapGrid Orientation="Horizontal" MaximumRowsOrColumns="4"/>
+                </ItemsPanelTemplate>
+            </GridView.ItemsPanel>
+        </GridView>
+
+
+    </Grid>
+    <Page.BottomAppBar>
+        <CommandBar Background="Transparent">
+            <AppBarButton Icon="Add" Label="添加记事" Name="add" Click="add_Click"/>
+           
+        </CommandBar>
+    </Page.BottomAppBar>
+</Page>

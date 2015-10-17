@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>KANGKAISEN</Machine>
+    <WindowsUser>凯森</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>b7e106fc-10bd-4d28-b494-37a94a3dd9ce</PackageIdentityName>
+    <IntermediateOutputPath>E:\WP完整源码\WP8.1 别了路痴\Luchi\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="E:\WP完整源码\WP8.1 别了路痴\Luchi\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="E:\WP完整源码\WP8.1 别了路痴\Luchi\bin\Debug\Luchi.exe">
+      <PackagePath>Luchi.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\WP完整源码\WP8.1 别了路痴\Myprogress\bin\Debug\Myprogress.winmd">
+      <PackagePath>Myprogress.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\WP完整源码\WP8.1 别了路痴\PhoneTextBoxView\bin\Debug\PhoneTextBoxView.dll">
+      <PackagePath>PhoneTextBoxView.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\WP完整源码\WP8.1 别了路痴\ScrollTB\bin\Debug\ScrollTB.dll">
+      <PackagePath>ScrollTB.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\WP完整源码\WP8.1 别了路痴\Luchi\Assets\buy.png">
+      <PackagePath>Assets\buy.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\WP完整源码\WP8.1 别了路痴\Luchi\Assets\food.png">
+      <PackagePath>Assets\food.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\WP完整源码\WP8.1 别了路痴\Luchi\Assets\hotel.png">
+      <PackagePath>Assets\hotel.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\WP完整源码\WP8.1 别了路痴\Luchi\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\WP完整源码\WP8.1 别了路痴\Luchi\Assets\Map.png">
+      <PackagePath>Assets\Map.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\WP完整源码\WP8.1 别了路痴\Luchi\Assets\Navigation.png">
+      <PackagePath>Assets\Navigation.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\WP完整源码\WP8.1 别了路痴\Luchi\Assets\play.png">
+      <PackagePath>Assets\play.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\WP完整源码\WP8.1 别了路痴\Luchi\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\WP完整源码\WP8.1 别了路痴\Luchi\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\WP完整源码\WP8.1 别了路痴\Luchi\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\WP完整源码\WP8.1 别了路痴\Luchi\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\WP完整源码\WP8.1 别了路痴\Luchi\Assets\track.png">
+      <PackagePath>Assets\track.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\WP完整源码\WP8.1 别了路痴\Luchi\Assets\view.png">
+      <PackagePath>Assets\view.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\WP完整源码\WP8.1 别了路痴\Luchi\Assets\where.png">
+      <PackagePath>Assets\where.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\WP完整源码\WP8.1 别了路痴\Luchi\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\WP完整源码\WP8.1 别了路痴\Luchi\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\WP完整源码\WP8.1 别了路痴\Luchi\bin\Debug\Views\BusAround.xbf">
+      <PackagePath>Views\BusAround.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\WP完整源码\WP8.1 别了路痴\Luchi\bin\Debug\Views\BusinessView.xbf">
+      <PackagePath>Views\BusinessView.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\WP完整源码\WP8.1 别了路痴\Luchi\bin\Debug\Views\BusRoute.xbf">
+      <PackagePath>Views\BusRoute.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\WP完整源码\WP8.1 别了路痴\Luchi\bin\Debug\Views\BusStation.xbf">
+      <PackagePath>Views\BusStation.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\WP完整源码\WP8.1 别了路痴\Luchi\bin\Debug\Views\BusTransfer.xbf">
+      <PackagePath>Views\BusTransfer.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\WP完整源码\WP8.1 别了路痴\Luchi\bin\Debug\Views\CompassView.xbf">
+      <PackagePath>Views\CompassView.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\WP完整源码\WP8.1 别了路痴\Luchi\bin\Debug\Views\MainPage.xbf">
+      <PackagePath>Views\MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\WP完整源码\WP8.1 别了路痴\Luchi\bin\Debug\Views\Setting.xbf">
+      <PackagePath>Views\Setting.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\WP完整源码\WP8.1 别了路痴\Luchi\bin\Debug\wheel.xbf">
+      <PackagePath>wheel.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\WP完整源码\WP8.1 别了路痴\Myprogress\bin\Debug\Themes\generic.xbf">
+      <PackagePath>Myprogress\Themes\generic.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\WP完整源码\WP8.1 别了路痴\PhoneTextBoxView\bin\Debug\Themes\generic.xbf">
+      <PackagePath>PhoneTextBoxView\Themes\generic.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\WP完整源码\WP8.1 别了路痴\ScrollTB\bin\Debug\Themes\generic.xbf">
+      <PackagePath>ScrollTB\Themes\generic.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\WP完整源码\WP8.1 别了路痴\Luchi\bin\Debug\Luchi.xr.xml">
+      <PackagePath>Luchi.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\WP完整源码\WP8.1 别了路痴\Myprogress\bin\Debug\Myprogress.xr.xml">
+      <PackagePath>Myprogress\Myprogress.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\WP完整源码\WP8.1 别了路痴\PhoneTextBoxView\bin\Debug\PhoneTextBoxView.xr.xml">
+      <PackagePath>PhoneTextBoxView\PhoneTextBoxView.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\WP完整源码\WP8.1 别了路痴\ScrollTB\bin\Debug\ScrollTB.xr.xml">
+      <PackagePath>ScrollTB\ScrollTB.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\WP完整源码\WP8.1 别了路痴\Luchi\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,74 @@
+﻿<Page
+    x:Class="Dictionary.About"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Dictionary"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Page.Resources>
+        <Style TargetType="Button">
+
+           <Setter Property="FontSize" Value="30"/>
+            <Setter Property="FontFamily" Value="宋体"/>
+            <Setter Property="Width" Value="300"></Setter>
+            <Setter Property="Height" Value="80"></Setter>
+            <Setter Property="Background" Value="#FFC5246D"></Setter>
+            <Setter Property="Margin" Value="10"></Setter>
+            <Setter Property="Template">
+
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Grid x:Name="Grid" Background="Transparent">
+                            <Border x:Name="Border" Width="{TemplateBinding Width}" Height="{TemplateBinding Height}"   Background="{TemplateBinding Background}" CornerRadius="40" >
+                                <ContentPresenter x:Name="ContentPresenter"  ContentTemplate="{TemplateBinding ContentTemplate}" Content="{TemplateBinding Content}"  HorizontalAlignment="Center"  VerticalAlignment="Center"/>
+                            </Border>
+                        </Grid>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </Page.Resources>
+
+    <Grid Background="#FF8ABD6D" Name="mainGrid">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <GridView  Grid.Row="1" HorizontalAlignment="Center" >
+
+            <GridViewItem  >
+                <Button x:ConnectionId='3' Content="邮件反馈意见"
+                        Name="emailButton"
+                                                 ></Button>
+            </GridViewItem>
+            <GridViewItem  >
+                <Button x:ConnectionId='2' Content="论坛反馈意见"
+                        Name="bbsButton"
+                                               ></Button>
+            </GridViewItem>
+            <GridViewItem >
+                <Button x:ConnectionId='1' Content="鼓励5分好评"
+                        Name="appraiseButton"
+                                                    ></Button>
+            </GridViewItem>
+           
+        </GridView>
+        <TextBlock Name="msgText"
+                   FontSize="25"
+                   FontFamily="宋体"
+                   TextWrapping="Wrap"
+                   HorizontalAlignment="Center"
+                   Width="300"
+                   Text="小梦词典永久免费无广告！小梦词典会持续更新，不断完善。
+                   欢迎大家给小梦反馈意见和问题。
+                   您的5分好评会给小梦更多动力！">
+
+        </TextBlock>
+        <WebView Name="web" Visibility="Collapsed"></WebView>
+    </Grid>
+    
+</Page>
+

@@ -1,0 +1,48 @@
+E:\WP源码\Luchi\PhoneTextBoxView\bin\Debug\Themes\generic.xbf
+E:\WP源码\Luchi\PhoneTextBoxView\bin\Debug\PhoneTextBoxView.xr.xml
+E:\WP源码\Luchi\PhoneTextBoxView\bin\Debug\PhoneTextBoxView.dll
+E:\WP源码\Luchi\PhoneTextBoxView\bin\Debug\PhoneTextBoxView.pdb
+E:\WP源码\Luchi\PhoneTextBoxView\bin\Debug\PhoneTextBoxView.pri
+E:\WP源码\Luchi\PhoneTextBoxView\obj\Debug\Themes\generic.g.i.cs
+E:\WP源码\Luchi\PhoneTextBoxView\obj\Debug\Themes\generic.g.cs
+E:\WP源码\Luchi\PhoneTextBoxView\obj\Debug\XamlTypeInfo.g.cs
+E:\WP源码\Luchi\PhoneTextBoxView\obj\Debug\XamlSaveStateFile.xml
+E:\WP源码\Luchi\PhoneTextBoxView\obj\Debug\Themes\generic.xaml
+E:\WP源码\Luchi\PhoneTextBoxView\obj\Debug\Themes\generic.xbf
+E:\WP源码\Luchi\PhoneTextBoxView\obj\Debug\PhoneTextBoxView.dll
+E:\WP源码\Luchi\PhoneTextBoxView\obj\Debug\PhoneTextBoxView.pdb
+E:\WP源码\Luchi\PhoneTextBoxView\obj\Debug\priconfig.xml
+E:\WP源码\Luchi\PhoneTextBoxView\obj\Debug\priconfig.xml.intermediate
+E:\WP源码\Luchi\PhoneTextBoxView\obj\Debug\layout.resfiles
+E:\WP源码\Luchi\PhoneTextBoxView\obj\Debug\layout.resfiles.intermediate
+E:\WP源码\Luchi\PhoneTextBoxView\obj\Debug\resources.resfiles
+E:\WP源码\Luchi\PhoneTextBoxView\obj\Debug\resources.resfiles.intermediate
+E:\WP源码\Luchi\PhoneTextBoxView\obj\Debug\pri.resfiles
+E:\WP源码\Luchi\PhoneTextBoxView\obj\Debug\pri.resfiles.intermediate
+E:\WP源码\Luchi\PhoneTextBoxView\obj\Debug\qualifiers.txt
+E:\WP源码\Luchi\PhoneTextBoxView\obj\Debug\qualifiers.txt.intermediate
+E:\WP源码\Luchi\PhoneTextBoxView\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+E:\WP完整源码\WP8.1 别了路痴\PhoneTextBoxView\bin\Debug\Themes\generic.xbf
+E:\WP完整源码\WP8.1 别了路痴\PhoneTextBoxView\bin\Debug\PhoneTextBoxView.xr.xml
+E:\WP完整源码\WP8.1 别了路痴\PhoneTextBoxView\bin\Debug\PhoneTextBoxView.dll
+E:\WP完整源码\WP8.1 别了路痴\PhoneTextBoxView\bin\Debug\PhoneTextBoxView.pdb
+E:\WP完整源码\WP8.1 别了路痴\PhoneTextBoxView\bin\Debug\PhoneTextBoxView.pri
+E:\WP完整源码\WP8.1 别了路痴\PhoneTextBoxView\obj\Debug\Themes\generic.g.i.cs
+E:\WP完整源码\WP8.1 别了路痴\PhoneTextBoxView\obj\Debug\Themes\generic.g.cs
+E:\WP完整源码\WP8.1 别了路痴\PhoneTextBoxView\obj\Debug\XamlTypeInfo.g.cs
+E:\WP完整源码\WP8.1 别了路痴\PhoneTextBoxView\obj\Debug\Themes\generic.xaml
+E:\WP完整源码\WP8.1 别了路痴\PhoneTextBoxView\obj\Debug\Themes\generic.xbf
+E:\WP完整源码\WP8.1 别了路痴\PhoneTextBoxView\obj\Debug\XamlSaveStateFile.xml
+E:\WP完整源码\WP8.1 别了路痴\PhoneTextBoxView\obj\Debug\PhoneTextBoxView.dll
+E:\WP完整源码\WP8.1 别了路痴\PhoneTextBoxView\obj\Debug\PhoneTextBoxView.pdb
+E:\WP完整源码\WP8.1 别了路痴\PhoneTextBoxView\obj\Debug\priconfig.xml
+E:\WP完整源码\WP8.1 别了路痴\PhoneTextBoxView\obj\Debug\priconfig.xml.intermediate
+E:\WP完整源码\WP8.1 别了路痴\PhoneTextBoxView\obj\Debug\layout.resfiles
+E:\WP完整源码\WP8.1 别了路痴\PhoneTextBoxView\obj\Debug\layout.resfiles.intermediate
+E:\WP完整源码\WP8.1 别了路痴\PhoneTextBoxView\obj\Debug\resources.resfiles
+E:\WP完整源码\WP8.1 别了路痴\PhoneTextBoxView\obj\Debug\resources.resfiles.intermediate
+E:\WP完整源码\WP8.1 别了路痴\PhoneTextBoxView\obj\Debug\pri.resfiles
+E:\WP完整源码\WP8.1 别了路痴\PhoneTextBoxView\obj\Debug\pri.resfiles.intermediate
+E:\WP完整源码\WP8.1 别了路痴\PhoneTextBoxView\obj\Debug\qualifiers.txt
+E:\WP完整源码\WP8.1 别了路痴\PhoneTextBoxView\obj\Debug\qualifiers.txt.intermediate
+E:\WP完整源码\WP8.1 别了路痴\PhoneTextBoxView\obj\Debug\MultipleQualifiersPerDimensionFound.txt

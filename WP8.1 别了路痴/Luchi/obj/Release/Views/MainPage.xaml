@@ -1,0 +1,324 @@
+﻿<Page
+    x:Class="Luchi.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Luchi"
+    xmlns:tb="using:PhoneTextBoxView"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Page.Resources>
+        <Style x:Key="HubStyle1" TargetType="Hub">
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Hub">
+                        <Grid x:Name="HubRoot">
+                            <Grid.Projection>
+                                <PlaneProjection x:Name="EntranceAnimationProjection"/>
+                            </Grid.Projection>
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="auto"/>
+                                <RowDefinition Height="*"/>
+                            </Grid.RowDefinitions>
+
+                            <Canvas Grid.RowSpan="2">
+                                <Canvas.Clip>
+                                    <RectangleGeometry x:Name="BackgroundClipRect"/>
+                                </Canvas.Clip>
+                                <Grid x:Name="Background">
+                                    <Grid.RenderTransform>
+                                        <CompositeTransform x:Name="BackgroundParallaxTransform"/>
+                                    </Grid.RenderTransform>
+                                    <Border x:Name="WrapBackground" BorderBrush="{TemplateBinding BorderBrush}" BorderThickness="{TemplateBinding BorderThickness}" Background="{TemplateBinding Background}">
+                                        <Border.RenderTransform>
+                                            <CompositeTransform x:Name="WrapBackgroundParallaxTransform"/>
+                                        </Border.RenderTransform>
+                                    </Border>
+                                    <Border x:Name="MainBackground" BorderBrush="{TemplateBinding BorderBrush}" BorderThickness="{TemplateBinding BorderThickness}" Background="{TemplateBinding Background}"/>
+                                </Grid>
+                            </Canvas>
+                            <ScrollViewer x:Name="ScrollViewer" HorizontalScrollMode="Auto" HorizontalSnapPointsType="None" HorizontalAlignment="Left" HorizontalScrollBarVisibility="Hidden" Grid.RowSpan="2" Template="{StaticResource ScrollViewerScrollBarlessTemplate}" VerticalScrollBarVisibility="Disabled" VerticalScrollMode="Disabled" ZoomMode="Disabled">
+                                <ItemsStackPanel x:Name="Panel" CacheLength="6" Orientation="{TemplateBinding Orientation}"/>
+                            </ScrollViewer>
+                            <Canvas Grid.Row="0">
+                                <Canvas.Clip>
+                                    <RectangleGeometry x:Name="HeaderClipRect"/>
+                                </Canvas.Clip>
+                                <ContentControl x:Name="HeaderHost" CharacterSpacing="{StaticResource HubHeaderCharacterSpacing}" ContentTemplate="{TemplateBinding HeaderTemplate}" Content="{TemplateBinding Header}" FontWeight="Bold"  FontSize="40" Foreground="#FFF9F9F9" FontFamily="微软雅黑" Margin="28.5,0,0,0" Background="#FFDE6DDE" >
+
+                                </ContentControl>
+                            </Canvas>
+                        </Grid>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+        <DataTemplate x:Key="HubSectionHeaderTemplate">
+            <TextBlock  Text="{Binding}" FontSize="30" FontFamily="微软雅黑"  Foreground="#FFE1E67D"  Margin="9.5,0,0,-28.5"/>
+        </DataTemplate>
+
+        <Style TargetType="Button">
+            <Setter Property="FontSize" Value="20"/>
+            <Setter Property="FontFamily" Value="微软雅黑"></Setter>
+            <Setter Property="Width" Value="138.5"></Setter>
+            <Setter Property="Height" Value="138.5"></Setter>
+            <Setter Property="Margin" Value="9.5,0,0,9.5"></Setter>
+            <Setter Property="Opacity" Value="0.8"></Setter>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Grid x:Name="Grid" Background="Transparent">
+                            <Border x:Name="Border" Width="{TemplateBinding Width}" Height="{TemplateBinding Height}"   Background="{TemplateBinding Background}" >
+                                <ContentPresenter x:Name="ContentPresenter"  ContentTemplate="{TemplateBinding ContentTemplate}" Content="{TemplateBinding Content}"  HorizontalAlignment="Center"  VerticalAlignment="Center"/>
+                            </Border>
+                        </Grid>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+        <Style TargetType="Button" x:Key="button1">
+            <Setter Property="FontSize" Value="20"/>
+            <Setter Property="FontFamily" Value="微软雅黑"></Setter>
+            <Setter Property="Width" Value="50"></Setter>
+            <Setter Property="Height" Value="50"></Setter>
+
+            <Setter Property="Opacity" Value="0.8"></Setter>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Grid x:Name="Grid" Background="Transparent">
+                            <Border x:Name="Border" Width="{TemplateBinding Width}" Height="{TemplateBinding Height}"   Background="{TemplateBinding Background}" CornerRadius="25">
+                                <ContentPresenter x:Name="ContentPresenter"  ContentTemplate="{TemplateBinding ContentTemplate}" Content="{TemplateBinding Content}"  HorizontalAlignment="Center"  VerticalAlignment="Center"/>
+                            </Border>
+                        </Grid>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+        <Storyboard x:Name="storyboard">
+            <DoubleAnimation Storyboard.TargetName="rotateTransform"
+                                 Storyboard.TargetProperty="Angle"
+                                 From="0"
+                                 To="360"
+                                 Duration="0:0:0.5"
+                                 AutoReverse="True"
+                                 >
+            </DoubleAnimation>
+        </Storyboard>
+    </Page.Resources>
+    
+    <Grid>
+       <Hub Header="别了,路痴" Style="{StaticResource HubStyle1}" Background="#FF211919">
+            
+            <HubSection x:Uid="HubSection2" Header="{Binding City}" Width="Auto"
+                          HeaderTemplate="{ThemeResource HubSectionHeaderTemplate}">
+                <DataTemplate>
+                    
+                    <GridView
+                        Margin="0,9.5,0,0"
+                        SelectionMode="None"
+                        IsItemClickEnabled="True"
+                        Width="Auto"
+                      >
+                        <GridView.ItemsPanel>
+                            <ItemsPanelTemplate>
+                                <ItemsWrapGrid Orientation="Horizontal" MaximumRowsOrColumns="1"/>
+                            </ItemsPanelTemplate>
+                        </GridView.ItemsPanel>
+                        <Button x:ConnectionId='11' Background="#FFF1321F"
+                                Name="where" Width="300"                    
+                                Margin="9.5,0,0,19">
+                            <Button.Content>
+                                <StackPanel Orientation="Horizontal">
+                                    <TextBlock Text="我在哪" HorizontalAlignment="Left" VerticalAlignment="Center"></TextBlock>
+                                    <Image  Margin="100,0,0,0" Source="/Assets/where.png" Width="100" Height="100" HorizontalAlignment="Right" VerticalAlignment="Center"></Image>
+                                </StackPanel>
+                            </Button.Content>
+                        </Button>
+                        <Button x:ConnectionId='12'  Background="#FFF5C00B"
+                                Name="navigate" Width="300"                       
+                                 Margin="9.5,0,0,19">
+                            <Button.Content>
+                                <StackPanel Orientation="Horizontal">
+                                    <TextBlock Text="路线导航" HorizontalAlignment="Left" VerticalAlignment="Center"></TextBlock>
+                                    <Image  Margin="100,0,0,0" Source="/Assets/map.png" Width="100" Height="100" HorizontalAlignment="Right" VerticalAlignment="Center"></Image>
+                                </StackPanel>
+                            </Button.Content>
+                        </Button>
+                        <Button x:ConnectionId='13' Background="#FF0A6DE4"
+                                Name="compass" Width="300"                      
+                                Margin="9.5,0,0,19">
+                            <Button.Content>
+                                <StackPanel Orientation="Horizontal">
+                                    <TextBlock Text="指南针" HorizontalAlignment="Left" VerticalAlignment="Center"></TextBlock>
+                                    <Image  Margin="100,0,0,0" Source="/Assets/navigation.png" Width="100" Height="100" HorizontalAlignment="Right" VerticalAlignment="Center"></Image>
+                                </StackPanel>
+                            </Button.Content>
+                        </Button>
+                    
+                    </GridView>
+                </DataTemplate>
+            </HubSection>
+       
+            <HubSection Header="公交" HeaderTemplate="{ThemeResource HubSectionHeaderTemplate}">
+                <DataTemplate>
+                    <Grid Margin="0,-100,0,0">
+                    <local:wheel></local:wheel>
+                    </Grid>
+                </DataTemplate>
+            </HubSection>
+            <HubSection Header="发现" HeaderTemplate="{ThemeResource HubSectionHeaderTemplate}">
+                <DataTemplate>
+
+                    <GridView
+                        Margin="0,9.5,0,0"
+                        SelectionMode="None"
+                        IsItemClickEnabled="True"
+                        Width="Auto"
+                      >
+                        <GridView.ItemsPanel>
+                            <ItemsPanelTemplate>
+                                <ItemsWrapGrid Orientation="Horizontal"  MaximumRowsOrColumns="1"></ItemsWrapGrid>
+                            </ItemsPanelTemplate>
+                        </GridView.ItemsPanel>
+                        <Grid  Height="100" Margin="0,-15,0,0">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="*"/>
+                                <ColumnDefinition Width="Auto"/>
+                        </Grid.ColumnDefinitions>
+                            <tb:PhoneTextBox x:ConnectionId='10' Height="60" Watermark="任意关键字搜索:KTV 影院 超市" Width="360" FontSize="20"
+                                             InputScope="Search"                               
+                                             Text="{Binding KeyWord,Mode=TwoWay,UpdateSourceTrigger=PropertyChanged}"></tb:PhoneTextBox>
+
+                        </Grid>
+                        <Grid x:ConnectionId='5' Name="food"                      Margin="5,5,5,0">
+                           <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="Auto"/>
+                                <ColumnDefinition Width="*"/>
+
+                            </Grid.ColumnDefinitions>
+
+                            <Border  Margin="4" Grid.Column="0" HorizontalAlignment="Left">
+                                <Image Source="/Assets/food.png"  Height="70" Width="70"
+                                  Stretch="Fill"/>
+                            </Border>
+                            <StackPanel Grid.Column="1"  Margin="9.5" VerticalAlignment="Center">
+                                <TextBlock Text="周边美食" 
+                                      Style="{ThemeResource ListViewItemTextBlockStyle}" />
+                            </StackPanel>
+                        </Grid>
+                        <Grid x:ConnectionId='6' Name="hotel"                       Margin="5,5,5,0">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="Auto"/>
+                                <ColumnDefinition Width="*"/>
+
+                            </Grid.ColumnDefinitions>
+
+                            <Border  Margin="4" Grid.Column="0" HorizontalAlignment="Left">
+                                <Image Source="/Assets/hotel.png"  Height="70" Width="70"
+                                  Stretch="Fill"/>
+                            </Border>
+                            <StackPanel Grid.Column="1"  Margin="9.5" VerticalAlignment="Center">
+                                <TextBlock Text="周边酒店" 
+                                      Style="{ThemeResource ListViewItemTextBlockStyle}" />
+                            </StackPanel>
+                        </Grid>
+                        <Grid x:ConnectionId='7' Name="entertain"                           Margin="5,5,5,0">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="Auto"/>
+                                <ColumnDefinition Width="*"/>
+
+                            </Grid.ColumnDefinitions>
+
+                            <Border  Margin="4" Grid.Column="0" HorizontalAlignment="Left">
+                                <Image Source="/Assets/play.png"  Height="70" Width="70"
+                                  Stretch="Fill"/>
+                            </Border>
+                            <StackPanel Grid.Column="1"  Margin="9.5" VerticalAlignment="Center">
+                                <TextBlock Text="周边娱乐" 
+                                      Style="{ThemeResource ListViewItemTextBlockStyle}" />
+                            </StackPanel>
+                        </Grid>
+                        <Grid x:ConnectionId='8' Name="buy"                     Margin="5,5,5,0">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="Auto"/>
+                                <ColumnDefinition Width="*"/>
+
+                            </Grid.ColumnDefinitions>
+
+                            <Border  Margin="4" Grid.Column="0" HorizontalAlignment="Left">
+                                <Image Source="/Assets/buy.png"  Height="70" Width="70"
+                                  Stretch="Fill"/>
+                            </Border>
+                            <StackPanel Grid.Column="1"  Margin="9.5" VerticalAlignment="Center">
+                                <TextBlock Text="周边购物" 
+                                      Style="{ThemeResource ListViewItemTextBlockStyle}" />
+                            </StackPanel>
+                        </Grid>
+                        <Grid x:ConnectionId='9' Name="scenic"                        Margin="5,5,5,0">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="Auto"/>
+                                <ColumnDefinition Width="*"/>
+
+                            </Grid.ColumnDefinitions>
+
+                            <Border  Margin="4" Grid.Column="0" HorizontalAlignment="Left">
+                                <Image Source="/Assets/view.png"  Height="70" Width="70"
+                                  Stretch="Fill"/>
+                            </Border>
+                            <StackPanel Grid.Column="1"  Margin="9.5" VerticalAlignment="Center">
+                                <TextBlock Text="周边景点" 
+                                      Style="{ThemeResource ListViewItemTextBlockStyle}" />
+                            </StackPanel>
+                        </Grid>
+                   
+                    </GridView>
+                </DataTemplate>
+            </HubSection>
+            <HubSection Header="其他" HeaderTemplate="{ThemeResource HubSectionHeaderTemplate}">
+                <DataTemplate>
+
+                    <GridView
+                        Margin="0,9.5,0,0"
+                        SelectionMode="None"
+                        IsItemClickEnabled="True"
+                        Width="Auto"
+                      >
+                        <GridView.ItemsPanel>
+                            <ItemsPanelTemplate>
+                                <ItemsWrapGrid Orientation="Horizontal" MaximumRowsOrColumns="2"/>
+                            </ItemsPanelTemplate>
+                        </GridView.ItemsPanel>
+
+                        <Button x:ConnectionId='1' Content="反馈" Background="#FFEA492F" 
+                                Width="300" Height="100"
+                                Name="feedback"                       
+                                Margin="0,0,0,19"
+                                ></Button>
+                        <Button x:ConnectionId='2' Content="设置" Background="#FFEA492F" 
+                                Width="300" Height="100"
+                                Name="setting"                       
+                                Margin="0,0,0,19"
+                                ></Button>
+                        <Button x:ConnectionId='3' Content="好评" Background="#FFEA492F" 
+                                Width="300" Height="100"
+                                Name="appraise"                        
+                                Margin="0,0,0,19"
+                                ></Button>
+                        <Button x:ConnectionId='4' Content="捐助" Background="#FFEA492F" 
+                                Width="300" Height="100"
+                                Name="donate"                      
+                                Margin="0,0,0,19"
+                                ></Button>
+
+                    </GridView>
+                </DataTemplate>
+            </HubSection>
+        </Hub>
+    </Grid>
+</Page>
+

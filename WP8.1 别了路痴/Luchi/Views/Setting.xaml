@@ -1,0 +1,28 @@
+﻿<Page
+    x:Class="Luchi.Views.Setting"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Luchi.Views"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="#FF211919">
+
+    <Grid>
+        <ComboBox x:Name="comboBox1" SelectionChanged="comboBox1_SelectionChanged" Width="360"
+                PlaceholderText="选择摇一摇打开的页面" Foreground="Black">
+            <x:String>定位</x:String>
+            <x:String>路线导航</x:String>
+            <x:String>指南针</x:String>
+            <x:String>公交换乘</x:String>
+            <x:String>公交路线</x:String>
+            <x:String>公交站点</x:String>
+            <x:String>周边公交</x:String>
+            <x:String>周边美食</x:String>
+            <x:String>周边酒店</x:String>
+            <x:String>周边娱乐</x:String>
+            <x:String>周边购物</x:String>
+            <x:String>周边景点</x:String>
+        </ComboBox>
+    </Grid>
+</Page>

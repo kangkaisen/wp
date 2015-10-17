@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>KANGKAISEN</Machine>
+    <WindowsUser>凯森</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>d3c7ca31-7cec-4d75-a282-fcb18f61347e</PackageIdentityName>
+    <IntermediateOutputPath>E:\WP完整源码\WP8.1 小梦词典\Dictionary\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="E:\WP完整源码\WP8.1 小梦词典\Dictionary\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="E:\WP完整源码\WP8.1 小梦词典\Dictionary\bin\Debug\Dictionary.exe">
+      <PackagePath>Dictionary.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Live\v5.6\Windows Store app XAML\References\CommonConfiguration\Neutral\Microsoft.Live.dll">
+      <PackagePath>Microsoft.Live.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\WP完整源码\WP8.1 小梦词典\Dictionary\5.jpg">
+      <PackagePath>5.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\WP完整源码\WP8.1 小梦词典\Dictionary\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\WP完整源码\WP8.1 小梦词典\Dictionary\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\WP完整源码\WP8.1 小梦词典\Dictionary\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\WP完整源码\WP8.1 小梦词典\Dictionary\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\WP完整源码\WP8.1 小梦词典\Dictionary\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\WP完整源码\WP8.1 小梦词典\Dictionary\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\WP完整源码\WP8.1 小梦词典\Dictionary\bin\Debug\About.xbf">
+      <PackagePath>About.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\WP完整源码\WP8.1 小梦词典\Dictionary\bin\Debug\Dict.xbf">
+      <PackagePath>Dict.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\WP完整源码\WP8.1 小梦词典\Dictionary\bin\Debug\LanguageSetting.xbf">
+      <PackagePath>LanguageSetting.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\WP完整源码\WP8.1 小梦词典\Dictionary\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\WP完整源码\WP8.1 小梦词典\Dictionary\bin\Debug\OneDrive.xbf">
+      <PackagePath>OneDrive.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\WP完整源码\WP8.1 小梦词典\Dictionary\bin\Debug\Translate.xbf">
+      <PackagePath>Translate.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\WP完整源码\WP8.1 小梦词典\Dictionary\bin\Debug\WordBook.xbf">
+      <PackagePath>WordBook.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\WP完整源码\WP8.1 小梦词典\Dictionary\bin\Debug\WordPlayer.xbf">
+      <PackagePath>WordPlayer.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\WP完整源码\WP8.1 小梦词典\Dictionary\bin\Debug\Dictionary.xr.xml">
+      <PackagePath>Dictionary.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\WP完整源码\WP8.1 小梦词典\Dictionary\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

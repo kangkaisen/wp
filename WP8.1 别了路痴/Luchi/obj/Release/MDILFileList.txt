@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Files>
+  <file>\Luchi.exe</file>
+  <file>\PhoneTextBoxView.dll</file>
+  <file>\ScrollTB.dll</file>
+</Files>

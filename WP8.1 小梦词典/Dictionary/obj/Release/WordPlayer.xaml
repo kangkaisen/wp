@@ -1,0 +1,50 @@
+﻿<Page
+    x:Class="Dictionary.WordPlayer"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Dictionary"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+   >
+
+
+    <Grid Background="#FF8ABD6D" >
+        <FlipView Name="flipView" >
+            
+            <FlipView.ItemTemplate>
+                <DataTemplate>
+                    <Grid>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="*"/>
+                            <RowDefinition Height="*"/>
+                            <RowDefinition Height="4*"/>
+                        </Grid.RowDefinitions>
+                        <TextBlock  Name="keyText" Text="{Binding Key,Mode=TwoWay}" FontSize="60"
+                                   TextWrapping="Wrap"/>
+                         <TextBlock Text="{Binding Ps,Mode=TwoWay}" FontSize="20"
+                                   Grid.Row="1"
+                                   TextWrapping="Wrap"/>
+                         <TextBlock Text="{Binding Acception,Mode=TwoWay}"
+                                   Grid.Row="2"
+                       TextWrapping="Wrap"
+                       FontSize="25"
+                       Foreground="Black"/>
+                        
+                    </Grid>
+                </DataTemplate>
+            </FlipView.ItemTemplate>
+        </FlipView>
+        <MediaElement Name="mePlay" Visibility="Collapsed" AutoPlay="True" Volume="1"/>
+    </Grid>
+    <Page.BottomAppBar>
+        <CommandBar Background="#FF8ABD6D">
+            <AppBarButton x:ConnectionId='1' Icon="Play" Label="自动播放"                             />
+            <AppBarButton x:ConnectionId='2' Icon="Volume" Label="语言"                             />
+            <AppBarButton x:ConnectionId='3' Icon="Stop" Label="暂停"                             />
+            <AppBarButton x:ConnectionId='4' Icon="Remove" Label="删除"                           />
+            
+        </CommandBar>
+    </Page.BottomAppBar>
+</Page>
+

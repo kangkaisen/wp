@@ -1,0 +1,46 @@
+﻿<Page
+    x:Class="Dictionary.Translate"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Dictionary"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid Background="#FF8ABD6D">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="60"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <TextBlock Text="翻译" FontSize="40" HorizontalAlignment="Center"
+                 FontFamily="宋体" FontWeight="Bold"></TextBlock>
+        <TextBox Grid.Row="1"  Name="txtSrc" TextWrapping="Wrap"
+                     AcceptsReturn="True"
+                     ScrollViewer.VerticalScrollBarVisibility="Auto"
+                     MinHeight="300"
+                     Text="请输入您要翻译的内容"
+                     FontSize="25"
+                     GotFocus="txtSrc_GotFocus">
+        </TextBox>
+        <TextBox Name="txtDst" Grid.Row="2" 
+                     TextWrapping="Wrap"
+                     ScrollViewer.VerticalScrollBarVisibility="Auto"
+                     MinHeight="300"
+                     >
+
+        </TextBox>
+
+    </Grid>
+    <Page.BottomAppBar >
+        <CommandBar Background="#FF8ABD6D">
+            <CommandBar.SecondaryCommands>
+                <AppBarButton Label="设置" Name="setting" Click="setting_Click"/>
+            </CommandBar.SecondaryCommands>
+            <AppBarButton Icon="Find" Label="翻译" Name="translate" Click="translate_Click"/>
+            <AppBarButton Icon="Delete" Label="清除" Name="clear" Click="clear_Click"/>
+            <AppBarButton Icon="Volume" Label="语音" Name="play" Click="play_Click"/>
+        </CommandBar>
+    </Page.BottomAppBar>
+</Page>

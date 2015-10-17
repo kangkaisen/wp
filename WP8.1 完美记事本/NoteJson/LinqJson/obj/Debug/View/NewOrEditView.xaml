@@ -1,0 +1,42 @@
+﻿<Page
+    x:Class="LinqJson.View.NewOrEditView"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:LinqJson.View"
+    xmlns:behavior="using:LinqJson.Command"
+    xmlns:imageBI="using:LinqJson.Common"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Page.Resources>
+        <imageBI:PathtoImage x:Key="PathtoImage"></imageBI:PathtoImage>
+    </Page.Resources>
+    <Grid>
+        <StackPanel>
+            <TextBlock Text="{Binding Title}" FontSize="30"></TextBlock>
+            
+            <StackPanel>
+                <Image x:ConnectionId='1'  Width="100" Height="100" HorizontalAlignment="Left" Stretch="UniformToFill"
+                   Source="{Binding NoteDemo.ImagePath,Mode=TwoWay,Converter={StaticResource PathtoImage}}"
+                                         />
+                <TextBox Header="标题"
+                 Text="{Binding NoteDemo.Name,Mode=TwoWay}"
+                 FontSize="30"></TextBox>
+                <TextBox Header="内容"
+                 Text="{Binding NoteDemo.Content,Mode=TwoWay}"
+                 Height="200"
+                 FontSize="25"
+                 TextWrapping="Wrap"></TextBox>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+    <Page.BottomAppBar>
+        <CommandBar Background="#FF2996AE">
+            <AppBarButton Icon="Add"  Label="保存" Command="{Binding SaveCommand}"/>
+            <AppBarButton Icon="Cancel"  Label="取消" Command="{Binding CancelCommand}"/>
+        </CommandBar>
+    </Page.BottomAppBar>
+</Page>
+

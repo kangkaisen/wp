@@ -1,0 +1,86 @@
+﻿<UserControl
+    x:Class="Luchi.wheel"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Luchi"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    d:DesignHeight="400"
+    d:DesignWidth="384">
+
+    <UserControl.Resources>
+        <Style TargetType="Button">
+            <Setter Property="FontSize" Value="20"/>
+            <Setter Property="FontFamily" Value="微软雅黑"></Setter>
+            <Setter Property="Width" Value="130"></Setter>
+            <Setter Property="Height" Value="130"></Setter>
+
+            <Setter Property="Opacity" Value="0.8"></Setter>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Grid x:Name="Grid" Background="Transparent">
+                            <Border x:Name="Border" Width="{TemplateBinding Width}" Height="{TemplateBinding Height}"   Background="{TemplateBinding Background}" CornerRadius="0,75,0,75">
+                                <ContentPresenter x:Name="ContentPresenter"  ContentTemplate="{TemplateBinding ContentTemplate}" Content="{TemplateBinding Content}"  HorizontalAlignment="Center"  VerticalAlignment="Center"
+                                   />
+                            </Border>
+                        </Grid>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+        <Style TargetType="Button" x:Key="button1">
+            <Setter Property="FontSize" Value="20"/>
+            <Setter Property="FontFamily" Value="微软雅黑"></Setter>
+            <Setter Property="Width" Value="50"></Setter>
+            <Setter Property="Height" Value="50"></Setter>
+
+            <Setter Property="Opacity" Value="0.8"></Setter>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Grid x:Name="Grid" Background="Transparent">
+                            <Border x:Name="Border" Width="{TemplateBinding Width}" Height="{TemplateBinding Height}"   Background="{TemplateBinding Background}" CornerRadius="25">
+                                <ContentPresenter x:Name="ContentPresenter"  ContentTemplate="{TemplateBinding ContentTemplate}" Content="{TemplateBinding Content}"  HorizontalAlignment="Center"  VerticalAlignment="Center"/>
+                            </Border>
+                        </Grid>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+        <Storyboard x:Name="storyboard">
+            <DoubleAnimation Storyboard.TargetName="rotateTransform"
+                                 Storyboard.TargetProperty="Angle"
+                                 From="0"
+                                 To="360"
+                                 Duration="0:0:0.3"
+                                 AutoReverse="True"
+                                 >
+            </DoubleAnimation>
+        </Storyboard>
+
+    </UserControl.Resources>
+    <Grid>
+        <local:CirclePanel  x:Name="circlePanel"  Radius="50" Grid.Row="1"  HorizontalAlignment="Center" VerticalAlignment="Center"
+                               ManipulationDelta="circlePanel_ManipulationDelta"
+                               ManipulationMode="All">
+            <local:CirclePanel.RenderTransform >
+                <RotateTransform x:Name="rotateTransform" />
+            </local:CirclePanel.RenderTransform>
+            <Button Background="#FF1CFB81" Style="{StaticResource button1}"></Button>
+            <Button Content="公交换乘" Background="#FFEA6C60" 
+                                Name="transfer" Click="transfer_Click"></Button>
+            <Button ManipulationMode="None"  Content="公交路线" Background="#FF05DBF0"
+                                Name="route" Click="route_Click"></Button>
+            <Button ManipulationMode="None" Content="公交站点" Background="#FFE89DF0"
+                                Name="station" Click="station_Click"></Button>
+            <Button ManipulationMode="None" Content="周边公交" Background="#FFF7CD3B"
+                                Name="around" Click="around_Click"></Button>
+
+
+
+        </local:CirclePanel>
+    </Grid>
+</UserControl>
