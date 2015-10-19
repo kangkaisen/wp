@@ -12,5 +12,5 @@ http://www.bcmeng.com/luchi/
 ## 2048
 曾经很流行的2048游戏
 
-# 欢迎赞助下哦：
+# donate：
 http://www.bcmeng.com/donate/
