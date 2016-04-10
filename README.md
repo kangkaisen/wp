@@ -2,7 +2,12 @@
 windows phone 8.1  runtime app  windows 10 依旧可以借鉴
 
 ## 小梦词典
-http://www.bcmeng.com/app/
+支持英汉单词查询；
+支持中，英，法，韩，德，俄，日七国语言翻译，多语言极致体验；
+支持生词本记忆，查询，播放；
+支持OneDrive云端上传，下载，更新生词；
+支持动态磁铁显示最新生词和当前生词总数，让您及时记忆生词；
+全面支持单词和翻译结果语音。
 ## 别了路痴
 http://www.bcmeng.com/luchi/
 ## 完美记事本
